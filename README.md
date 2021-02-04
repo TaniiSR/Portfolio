@@ -142,4 +142,4 @@ Easy to use customised action sheet picker inspired by UIAlertController
 
 # Stack over flow Contributions
 I am an active contributor on stackoverflow  : 
-https://stackoverflow.com/story/jawadali
+https://stackoverflow.com/story/taniisr
