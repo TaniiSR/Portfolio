@@ -124,7 +124,7 @@ Senior Android developer Communicating with client, understanding requirements a
 * Payment gateways
 * Lottie-Animations
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.png" width="1000"  title="Feeds Screen">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.png" width="700"  title="Feeds Screen">
 </p
 
 # Stack over flow Contributions
