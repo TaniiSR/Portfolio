@@ -151,7 +151,7 @@ As Android Developer gathhered the user requirements and implement into the cutt
 * Payment gateways
 
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/3.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/4.jpg" width="230" title="Spirituality">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/1.PNG" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/2.PNG" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/3.PNG" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/4.PNG" width="230" title="Spirituality">
 </p>
 
 ### Stack over flow Contributions ###
