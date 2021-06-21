@@ -78,14 +78,28 @@ Best and secure channel to send your luggage, jewelry and expensive material wit
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/11.jpg" width="230" title="Spirituality">
 </p>
 
- # [Time Twister: Time Manipulator](https://apps.apple.com/us/app/time-twister-time-manipulator/id1323452217)
-TIME TWISTER: TIME MANIPULATOR manipulates time to motivate yourself into outperforming set goals. Overcome mental blocks by slowing time and tricking your body into achieving and surpassing targets.TIME TWISTER: TIME MANIPULATOR is the ultimate gym buddy. By defining how long a second lasts, you will be able to hold a plank for longer, run further or push yourself to do more crunches in a stipulated amount of time.
+ # [BARQ Fleet](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
+Truly innovative idea to make money by carrying parcels with your luggage. Pick the parcel from your nearest locations, deliver at your destination to make money.
 
 ### My Role ###
-From user flows to UI and development all done by me. 
+As Android Developer gathhered the user requirements and implement into the cutting edge features.
+
+### Technologies ###
+* Java
+* Kotlin
+* Room Db
+* Lottie animations
+* Glide
+* Google maps
+* Push Notifications
+* Okhttp3
+* Google Location services
+* Firebase
+* Payment gateways
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/manipulate.png" width="200" title="Manipulate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/motivate.png" width="200" title="Motivate">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/lastlonger.png" width="200" title="LastLonger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/timeTwister/mind_mtr.png" width="200" title="Mind Meter">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/3.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/4.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/5.jpg" width="230" title="Spirituality">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/11.jpg" width="230" title="Spirituality">
 </p>
 
 
