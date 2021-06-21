@@ -95,6 +95,7 @@ As Android Developer gathhered the user requirements and implement into the cutt
 * Okhttp3
 * Google Location services
 * Firebase
+* Map clustering
 * Payment gateways
 
 <p align="center">
