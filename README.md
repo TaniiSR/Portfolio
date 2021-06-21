@@ -1,32 +1,26 @@
 # Portfolio
-Professionally taught iOS Engineer with 7 years experience. 
-I have spent my career leading client-side iOS development in Denmark and Pakistan.
-I have done multiple iOS applications ranging from social apps, classified ads, photo/video , utilities , sports , productivity and  health & fitness . I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
+Experienced and dedicated Android app developer offering more than 5 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Hidebox is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. Hidebox is my ongoing project.
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). VowPay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
 
 ### My Role ###
-Senior iOS developer Communicating with client, understanding requirements and sprint planning.
+Senior Android developer Communicating with client, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Swift(4-5)
-* CoreData
-* CoreLocation
-* AVFoundation
-* Photos
+* Kotlin
+* Dagger Hilt
+* Junit
+* MVVM
+* Glide
 * Push Notifications
-* Alamofire
-* Keychain
-* GoogleMaps
 * Firebase
-* Kingfisher
-* Hero
+* SSl Pinning
+* GoogleMaps
+* Payment gateways
 * Lottie-Animations
-* GoogleSignIn
-* FBSDKLoginKit
 <p align="center">
 <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="180"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="180" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
 </p>
