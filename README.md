@@ -103,6 +103,29 @@ As Android Developer gathhered the user requirements and implement into the cutt
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/11.jpg" width="230" title="Spirituality">
 </p>
 
+# [Maggsha](https://www.ilsainteractive.com/chbib/)
+Maggasha is aware of its responsibility toward customers and the environment and committed as a trendsetter and market leader striving to match our customer demands across industry segments. We are dedicated to offering the best environment friendly and genuine products backed by a professional network for after-sales support, through its network of branches and subsidiaries across the Kingdom.
+
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). Maggasha is built with Android Studio and written entirely in Java/Kotlin.
+
+### My Role ###
+Senior Android developer Communicating with client, understanding requirements and sprint planning.
+
+### Technologies ###
+* Kotlin/Java
+* Dagger2
+* Junit
+* RxJava
+* MVVM
+* Glide
+* Push Notifications
+* Firebase
+* GoogleMaps
+* Payment gateways
+* Lottie-Animations
+<!-- <p align="center">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="180"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="180" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
+</p -->
 
 # Stack over flow Contributions
 I am an active contributor on stackoverflow  : 
