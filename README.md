@@ -55,29 +55,26 @@ Senior Android developer. Communicating with client, understanding requirements 
 </p>
 
 
-# [SalamPlanet](https://itunes.apple.com/us/app/salamplanet/id1135829492?mt=8)
-The Ultimate Muslim Lifestyle App.
-Explore Your Muslim Lifestyle – Socialize, Eat, Play and Pray with SALAM PLANET!
-
-Worked with a fast paced team to deliver features as soon as possible to the 500k users. SalamPlanet is written in Objective-C with some Swift modules. It has Storyboards as well as nibs. 
+# [BARQ Stores](https://play.google.com/store/apps/details?id=com.kaakati.barqmerchant)
+Best and secure channel to send your luggage, jewelry and expensive material with ease. Setup luggage pick-location and recipient information and leave the rest to us.
 
 ### My Role ###
-Senior iOS developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows. 
+ Android developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows, Impletent the User requirements. 
 
 ### Technologies ###
-* Objective-C
-* CoreData
-* AVFoundation
-* Photos
-* Core Location
+* Java
+* Kotlin
+* Room Db
+* Lottie animations
+* Glide
+* Google maps
 * Push Notifications
-* AFNetworking
-* Keychain
-* GoogleMaps
+* Okhttp3
+* Google Location services
 * Firebase
-* FBSDKLoginKit
+* Payment gateways
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/01.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
 </p>
 
  # [Time Twister: Time Manipulator](https://apps.apple.com/us/app/time-twister-time-manipulator/id1323452217)
