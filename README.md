@@ -123,9 +123,9 @@ Senior Android developer Communicating with client, understanding requirements a
 * GoogleMaps
 * Payment gateways
 * Lottie-Animations
-<!-- <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="180"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="180" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
-</p -->
+<p align="center">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.jpg" width="180"  title="Feeds Screen">
+</p
 
 # Stack over flow Contributions
 I am an active contributor on stackoverflow  : 
