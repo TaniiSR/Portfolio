@@ -74,7 +74,7 @@ Best and secure channel to send your luggage, jewelry and expensive material wit
 * Firebase
 * Payment gateways
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/01.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/7.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/8.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/9.jpg" width="230" title="Spirituality">
 </p>
 
  # [Time Twister: Time Manipulator](https://apps.apple.com/us/app/time-twister-time-manipulator/id1323452217)
