@@ -27,36 +27,31 @@ Senior Android developer Communicating with client, understanding requirements a
 <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="180"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="180" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
 </p>
 
-# [YAP](Under development)
-slick is an articles sharing platform which enables you to rate article authenticity.
-**Curate** articles from Apps,Websites and Print Media
-**Populate** your news feed by following Friends, Family or anyone that interests you. Find  Contacts on slick or head to the Trending tab to follow users with similar interests
-**Rate** content for integrity, accuracy and trustworthiness
-
-This application consists of best animationts with *UIDynamicAnimator*, UI design, and easily-extended architecture (*VIPER*) using Firebase realtime database with cloud storage and *ML kit* for **OCR** Slick is built with Xcode and written entirely in Objective C. It utilizes Auto Layout with Storyboard for UI design.This app convert image news to Text and then Text to that news URL to post it in the application.
+# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
+YAP is Fintech application (MVVM-Kotlin): Being built using Kotlin and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
 
 ### My Role ###
-Lead iOS developer and team lead for iOS . Communicating with client, understanding requirements and sprint planning.
+Senior Android developer. Communicating with client, understanding requirements and sprint planning.
 
 ### Technologies ###
-* Objective c
-* Reachability kit modified to add date support
-* CoreLocation
-* AVFoundation
-* Photos
-* Push Notifications with cloud messaging 
-* Firebase Firestore
-* GoogleSignIn
-* FBSDKLoginKit 
-* twitter-kit-ios
-* *Share Extension* 
-* *today Extension* 
-* 3D touch enabled 
+* Kotlin
+* Dagger2
+* Google Maps
+* Glide
+* Junit
+* Push Notifications 
+* Leanplum 
+* Firebase
+* promon sheild 
+* payment gateways
+* ML kit 
+* KYC authentication
+* Modular approach
 * Face id and thumb Sign in enabled
 
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
 </p>
 
 
