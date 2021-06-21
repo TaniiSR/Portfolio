@@ -126,7 +126,34 @@ Senior Android developer Communicating with client, understanding requirements a
 <p align="center">
 <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.png" width="700"  title="Feeds Screen">
 </p
+ 
+ 
+ # [Literacy Assessment Drive (LAD)](https://play.google.com/store/apps/details?id=qodit.com.lad)
+LAD is an android application developed by Non Formal Education Assessment & Examination Cell to fulfill the purpose of Formative Assessment. This application is used by Non Formal Education Assessors to assess the students of non formal basic institutions. The corresponding web dashboard gives complete picture of assessment results.
 
-# Stack over flow Contributions
+### My Role ###
+As Android Developer gathhered the user requirements and implement into the cutting edge features.
+
+### Technologies ###
+* Java
+* Kotlin
+* Room Db
+* Lottie animations
+* Glide
+* Google maps
+* Push Notifications
+* Okhttp3
+* Camera API 2
+* Image rotation and capture in base64
+* Google Location services
+* Firebase
+* Map clustering
+* Payment gateways
+
+<p align="center">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/3.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Lad/4.jpg" width="230" title="Spirituality">
+</p>
+
+### Stack over flow Contributions ###
 I am an active contributor on stackoverflow  : 
 https://stackoverflow.com/story/taniisr
