@@ -2,7 +2,7 @@
 Experienced and dedicated Android app developer offering more than 5 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
-An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
+Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). VowPay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
 
@@ -13,6 +13,7 @@ Senior Android developer Communicating with client, understanding requirements a
 * Kotlin
 * Dagger Hilt
 * Junit
+* Kotlin coroutines
 * MVVM
 * Glide
 * Push Notifications
@@ -25,7 +26,7 @@ Senior Android developer Communicating with client, understanding requirements a
 <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="180"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="180" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="180" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
 </p>
 
-# [Slick](Under development)
+# [YAP](Under development)
 slick is an articles sharing platform which enables you to rate article authenticity.
 **Curate** articles from Apps,Websites and Print Media
 **Populate** your news feed by following Friends, Family or anyone that interests you. Find  Contacts on slick or head to the Trending tab to follow users with similar interests
