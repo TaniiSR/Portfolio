@@ -20,6 +20,7 @@ Senior Android developer Communicating with client, understanding requirements a
 * Firebase
 * SSl Pinning
 * GoogleMaps
+* Modular Approaach
 * Payment gateways
 * Lottie-Animations
 <p align="center">
