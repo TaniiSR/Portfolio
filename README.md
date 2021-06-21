@@ -104,46 +104,6 @@ As Android Developer gathhered the user requirements and implement into the cutt
 </p>
 
 
-# CocoaPods Contributions
-## [ReadabilityKit](https://github.com/exyte/ReadabilityKit) 
-Preview extractor for news, articles and full-texts in Swift
-### My Role ###
-Date extraction from response data
-<p align="center">
- <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif" title="Readability demo"/>
-</p>
- 
- ---
- 
-## [Smart Lazy Loading](https://github.com/jwd-ali/Smart-Lazy-Loading) 
-Fetch images from source url asynchronously on the basis of priority in Table or Collection View using NSCache and NSOperation
-for better performance
-
-### Technologies ###
-* Swift(5)
-* NSOperation 
-* NSOperationQueue with KVO
-* NSCache
-* NSUrlRequest 
-* NSUrlSession
-
----
-
-## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
-An easy multiple image picker controller for photo library with swipe select enabled.
-* IOS 13 Dark mode enabled 
-<p align="center">
-<a href="https://imgflip.com/gif/37ft7x"><img src="https://i.imgflip.com/37ft7x.gif" title="made at imgflip.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://imgflip.com/gif/38fus8"><img src="https://i.imgflip.com/38fus8.gif" title="made at imgflip.com"/></a>
-</p>
-
-## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
-Easy to use customised action sheet picker inspired by UIAlertController
-
-<p align="center">
-<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
-</p>
-
 # Stack over flow Contributions
 I am an active contributor on stackoverflow  : 
 https://stackoverflow.com/story/taniisr
