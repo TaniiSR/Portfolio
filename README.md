@@ -18,6 +18,7 @@ Senior Android developer Communicating with client, understanding requirements a
 * Glide
 * Push Notifications
 * Firebase
+* TDD
 * SSl Pinning
 * GoogleMaps
 * Modular Approaach
@@ -45,6 +46,7 @@ Senior Android developer. Communicating with client, understanding requirements 
 * promon sheild 
 * payment gateways
 * ML kit 
+* TDD
 * KYC authentication
 * Modular approach
 * Face id and thumb Sign in enabled
