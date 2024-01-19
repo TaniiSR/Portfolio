@@ -1,5 +1,5 @@
 # Portfolio
-Experienced and dedicated Android app developer offering more than 5 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
+Experienced and dedicated Android app developer offering more than 7 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
