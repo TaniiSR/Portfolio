@@ -29,7 +29,8 @@ Senior Android developer Communicating with cross functional teams, mentoring, u
 * Jetpack compose
 * Lottie-Animations
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/04.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/05.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/1170%20x%202532.jpg" title="Banner">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/04.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/05.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/06.webp" title="Banner">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/07.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/08.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/09.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/10.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/11.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/12.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/12.webp" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/13.webp" title="Banner">
 </p>
 
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
@@ -158,7 +159,7 @@ Senior Android developer Communicating with client, understanding requirements a
 * Lottie-Animations
 <p align="center">
 <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.png" width="700"  title="Feeds Screen">
-</p
+</p>
  
  
  # [Literacy Assessment Drive (LAD)](https://play.google.com/store/apps/details?id=qodit.com.lad)
