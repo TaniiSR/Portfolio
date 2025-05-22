@@ -25,6 +25,8 @@ Senior Android developer Communicating with cross functional teams, mentoring, u
 * SSl Pinning
 * GoogleMaps
 * Modular Approaach
+* CI/CD Bitrise
+* Authuntication
 * Payment gateways
 * Jetpack compose
 * Lottie-Animations
