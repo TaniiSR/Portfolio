@@ -1,6 +1,37 @@
 # Portfolio
 Experienced and dedicated Android app developer offering more than 8 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
+
+# [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en)
+Mindvalley is a transformational learning app offering self-help courses, meditation programs, and daily motivation sessions for personal growth and wellness. It empowers users to explore themes like spirituality, self-care, confidence building, and mindset development through engaging video content and guided experiences.
+
+Mindvalley is a well-architected Android application (MVVM – Kotlin): Built using modern development principles such as MVVM architecture, Kotlin Coroutines, Jetpack libraries, and a modular structure for scalability and maintainability. The app supports dynamic content delivery, rich media playback, daily tasks/reminders, and user progress tracking. It features seamless UI built with Jetpack Compose and XML, with animations and responsive layouts designed for both phones and tablets. CI/CD pipelines are automated using Fastlane and GitHub Actions for efficient deployment.
+
+I’m especially proud of how intuitive and polished the user experience is — from onboarding to personalized course recommendations. The app continues to evolve with ongoing contributions, reflecting our mission to unleash human potential through technology and education.
+
+### My Role ###
+Senior Android developer Communicating with cross functional teams, mentoring, understanding requirements and sprint planning.
+
+### Technologies ###
+* Kotlin
+* Dagger Hilt
+* Junit
+* Kotlin coroutines
+* MVVM
+* Glide
+* Push Notifications
+* Firebase
+* TDD
+* SSl Pinning
+* GoogleMaps
+* Modular Approaach
+* Payment gateways
+* Jetpack compose
+* Lottie-Animations
+<p align="center">
+<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
+</p>
+
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
 
