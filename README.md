@@ -2,7 +2,7 @@
 Experienced and dedicated Android app developer offering more than 8 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
 
-# [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en)
+# [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en))
 Mindvalley is a transformational learning app offering self-help courses, meditation programs, and daily motivation sessions for personal growth and wellness. It empowers users to explore themes like spirituality, self-care, confidence building, and mindset development through engaging video content and guided experiences.
 
 Mindvalley is a well-architected Android application (MVVM – Kotlin): Built using modern development principles such as MVVM architecture, Kotlin Coroutines, Jetpack libraries, and a modular structure for scalability and maintainability. The app supports dynamic content delivery, rich media playback, daily tasks/reminders, and user progress tracking. It features seamless UI built with Jetpack Compose and XML, with animations and responsive layouts designed for both phones and tablets. CI/CD pipelines are automated using Fastlane and GitHub Actions for efficient deployment.
