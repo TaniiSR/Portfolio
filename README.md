@@ -1,5 +1,5 @@
 # Portfolio
-Experienced and dedicated Android app developer offering more than 8 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
+Experienced and dedicated Android app developer offering more than 9 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
 .
 
 # [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en))
