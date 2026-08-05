@@ -901,6 +901,385 @@ This project strengthened my expertise in enterprise Android development, Clean 
 Mindvalley remains one of the flagship projects in my professional portfolio, demonstrating my experience in building scalable Android applications using modern technologies, collaborating across multidisciplinary teams, and contributing to products that continuously evolve to meet the needs of users around the world.
 
 
+# ♻️ [ScrapBays – Digital Scrap Trading Marketplace](https://play.google.com/store/apps/details?id=com.scrapbays.scrapbaysapp&hl=en_GB)
+
+> **Role:** Senior Android Developer  
+> **Industry:** Circular Economy | Recycling | Marketplace | Sustainability  
+> **Platform:** Android
+
+---
+
+## Project Overview
+
+ScrapBays is a modern digital marketplace that connects individuals, businesses, and recycling companies through a unified platform for buying, selling, and managing recyclable materials. The application simplifies the entire recycling process by enabling users to list scrap materials, browse available listings, communicate with buyers and sellers, manage orders, and monitor transactions through a secure and intuitive Android application.
+
+The platform promotes sustainability by digitizing the recycling ecosystem and creating a transparent marketplace that helps reduce waste while supporting businesses and individuals participating in the circular economy.
+
+Built using modern Android technologies, the application focuses on scalability, performance, security, and an exceptional user experience while supporting continuous product evolution.
+
+---
+
+## Business Context
+
+Traditional scrap trading often relies on fragmented communication, manual processes, and limited market visibility. ScrapBays addresses these challenges by providing a centralized digital marketplace where users can efficiently buy, sell, and manage recyclable materials.
+
+The platform improves transparency, streamlines trading workflows, and enables users to discover opportunities through an intuitive mobile experience. By digitizing the entire process, ScrapBays supports business growth while contributing to environmental sustainability and the circular economy.
+
+---
+
+## My Role
+
+As a **Senior Android Developer**, I collaborated closely with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and stakeholders throughout the complete software development lifecycle.
+
+My responsibilities included designing, developing, reviewing, testing, and maintaining Android features while participating in architecture discussions, technical planning, code reviews, production support, and continuous platform improvements.
+
+I contributed to building scalable Android solutions using modern development practices, ensuring the application remained reliable, maintainable, and capable of supporting future business growth.
+
+---
+
+## Responsibilities
+
+My responsibilities included:
+
+- Developing Android features using Kotlin and Jetpack Compose.
+- Designing scalable application architecture using Clean Architecture and MVVM.
+- Implementing secure user authentication and account management.
+- Developing marketplace functionality for buying and selling recyclable materials.
+- Building product listings, categories, and advanced search experiences.
+- Implementing order management and order tracking workflows.
+- Developing image capture and upload functionality for marketplace listings.
+- Integrating Google Maps and location services for location-aware features.
+- Implementing push notifications for marketplace activity and order updates.
+- Integrating REST APIs with backend marketplace services.
+- Utilizing Kotlin Coroutines and Flow for asynchronous programming and reactive UI updates.
+- Building reusable Compose UI components and shared business modules.
+- Applying Dependency Injection using Dagger Hilt.
+- Participating in architecture discussions and technical planning.
+- Conducting code reviews and maintaining Android engineering standards.
+- Monitoring production stability using Firebase Crashlytics and Analytics.
+- Collaborating closely with cross-functional teams in an Agile development environment.
+- Supporting CI/CD pipelines and production releases.
+
+---
+
+## Key Contributions
+
+Throughout the project, I contributed to delivering modern Android features that enhanced the marketplace experience and supported continuous platform growth.
+
+Key contributions included:
+
+- Developed production-ready Android features using Kotlin and Jetpack Compose.
+- Built scalable marketplace workflows supporting buying and selling of recyclable materials.
+- Developed product listing, browsing, search, and category management features.
+- Implemented secure authentication and user profile management.
+- Developed image capture and upload functionality for marketplace listings.
+- Integrated Google Maps and location-based services to improve user experience.
+- Built order management and order tracking functionality.
+- Integrated REST APIs supporting marketplace operations and real-time data synchronization.
+- Applied Clean Architecture, MVVM, and Repository Pattern to improve scalability and maintainability.
+- Utilized Kotlin Coroutines and Flow for efficient asynchronous operations and state management.
+- Developed reusable Compose components that improved consistency and accelerated feature development.
+- Participated in code reviews, architecture discussions, and technical decision-making.
+- Investigated production issues using Firebase Crashlytics and implemented long-term improvements.
+- Collaborated closely with Product Managers, Designers, Backend Engineers, and QA Engineers to deliver high-quality Android solutions.
+
+---
+
+## Architecture
+
+ScrapBays was architected using modern Android development principles to support a scalable, maintainable, and high-performance marketplace platform. As the application continued to evolve with new marketplace capabilities, the architecture emphasized modularity, reusable components, clean separation of concerns, and reactive state management.
+
+The application leverages modern Android technologies to ensure a responsive user experience, efficient network communication, and long-term maintainability while enabling rapid feature delivery.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model–View–ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Single Source of Truth
+- Unidirectional Data Flow
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── Jetpack Compose
+├── ViewModels
+├── UI State Management
+│
+Domain Layer
+│
+├── Use Cases
+├── Business Logic
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Persistence
+│
+Core Libraries
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+├── WorkManager
+├── Firebase
+```
+
+The architecture enabled:
+
+- Independent feature development across marketplace modules.
+- Improved code maintainability and scalability.
+- Reusable business logic and UI components.
+- Better testability and debugging.
+- Responsive user interfaces with reactive state management.
+- Faster delivery of new marketplace features.
+
+---
+
+## Engineering Challenges
+
+Building a modern marketplace application presented several technical challenges involving scalability, media handling, asynchronous operations, and delivering a seamless user experience.
+
+### Marketplace Data Management
+
+Supporting dynamic product listings, categories, search results, and user-generated content required efficient API communication and responsive UI updates while maintaining a smooth browsing experience.
+
+### Image Capture & Upload
+
+Marketplace listings relied heavily on high-quality product images. The application required efficient camera integration, image processing, compression, and reliable uploads while minimizing network usage and maintaining image quality.
+
+### Location-Based Features
+
+Location services were integrated to improve marketplace discovery and provide users with geographically relevant listings and trading opportunities.
+
+### State Management
+
+Managing multiple user journeys—including authentication, listing creation, browsing, search, profile management, and order tracking—required robust state management to ensure a consistent and responsive user experience.
+
+### Performance & Scalability
+
+As new marketplace features were introduced, maintaining application performance, minimizing technical debt, and preserving a clean architecture became essential to supporting long-term product growth.
+
+### Cross-functional Collaboration
+
+Feature delivery required close collaboration with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and stakeholders to ensure business requirements were translated into scalable, production-ready Android solutions.
+
+---
+
+## Business Impact
+
+ScrapBays modernizes the recycling industry by providing a digital marketplace that connects buyers and sellers through an intuitive and reliable mobile application.
+
+My contributions focused on delivering scalable Android features that simplified marketplace interactions, improved product discovery, streamlined listing management, and enhanced the overall trading experience.
+
+By implementing modern Android architecture, reusable components, and efficient API integrations, I contributed to a platform capable of supporting continuous business growth while delivering a reliable experience for a growing user base of **10K+ users**.
+
+The project also supports sustainability by making recycling more accessible and efficient, helping businesses and individuals participate in the circular economy through digital technology.
+
+---
+
+## Key Achievements
+
+Throughout the project, I contributed to the successful delivery of modern Android features that strengthened the overall marketplace platform.
+
+Key achievements include:
+
+- Developed production-ready Android features using Kotlin and Jetpack Compose.
+- Built scalable marketplace workflows supporting the buying and selling of recyclable materials.
+- Implemented secure authentication and user profile management.
+- Developed product listing, search, category browsing, and marketplace discovery features.
+- Built image capture, processing, and upload functionality for marketplace listings.
+- Integrated Google Maps and location services to improve user engagement.
+- Implemented order management and order tracking workflows.
+- Integrated REST APIs for marketplace operations and real-time data synchronization.
+- Applied Clean Architecture, MVVM, and Repository Pattern to improve scalability and maintainability.
+- Utilized Kotlin Coroutines and Flow for efficient asynchronous programming and reactive UI state management.
+- Developed reusable Jetpack Compose components that improved UI consistency and accelerated feature development.
+- Participated in architecture discussions, technical planning, and code reviews.
+- Investigated production issues using Firebase Crashlytics and implemented long-term improvements.
+- Collaborated closely with Product Managers, Designers, Backend Engineers, and QA Engineers throughout the software development lifecycle.
+- Supported CI/CD pipelines and contributed to reliable production releases.
+- Helped deliver a modern Android application serving a growing marketplace with **10K+ users**.
+
+---
+
+## Professional Growth
+
+Working on ScrapBays significantly strengthened my expertise in building enterprise-scale marketplace applications using modern Android technologies.
+
+The project expanded my experience in:
+
+- Enterprise Android application development.
+- Marketplace and e-commerce platforms.
+- Jetpack Compose and modern UI development.
+- Clean Architecture and MVVM.
+- Modular application design.
+- Kotlin Coroutines and Flow.
+- Reactive state management.
+- REST API integration.
+- Google Maps and location services.
+- Media capture and file upload workflows.
+- Firebase services and production monitoring.
+- CI/CD and release management.
+- Agile software development.
+- Cross-functional collaboration.
+- Building scalable, maintainable, and production-ready Android applications.
+
+---
+
+## Technologies
+
+ScrapBays was developed using a modern Android technology stack to deliver a scalable, secure, and high-performance marketplace platform. The application leverages contemporary Android frameworks and architectural patterns to ensure maintainability, responsiveness, and long-term scalability.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Kotlin |
+| **UI Development** | Jetpack Compose, Material Design 3 |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Kotlin Flow, StateFlow |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Dependency Injection** | Dagger Hilt |
+| **Location Services** | Google Maps SDK, Fused Location Provider |
+| **Background Processing** | WorkManager |
+| **Image Handling** | CameraX, Image Picker, Image Compression, Multipart File Upload |
+| **Firebase** | Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Analytics, Firebase Crashlytics |
+| **Testing** | JUnit, MockK, Unit Testing |
+| **CI/CD** | GitHub Actions, Bitrise |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Figma, Postman |
+
+---
+
+## Engineering Practices
+
+Throughout the development of ScrapBays, I followed modern Android engineering practices to ensure the application remained scalable, maintainable, and production-ready.
+
+Engineering practices included:
+
+- Developing scalable Android applications using Kotlin and Jetpack Compose.
+- Applying Clean Architecture and SOLID principles throughout the application.
+- Implementing MVVM architecture with clear separation of concerns.
+- Building reusable Compose UI components to improve consistency and reduce development effort.
+- Utilizing Kotlin Coroutines and Flow for asynchronous operations and reactive UI updates.
+- Designing modular features to simplify maintenance and future enhancements.
+- Implementing efficient image capture, compression, and upload workflows.
+- Integrating Google Maps and location services to support location-aware marketplace features.
+- Conducting code reviews and promoting engineering best practices.
+- Participating in architecture discussions and technical planning.
+- Monitoring production stability using Firebase Crashlytics and Analytics.
+- Collaborating closely with Product Managers, Designers, Backend Engineers, and QA Engineers.
+- Supporting Agile software development through sprint planning, estimation, backlog refinement, retrospectives, and release planning.
+- Contributing to CI/CD pipelines for reliable and efficient production deployments.
+
+---
+
+## Skills Demonstrated
+
+The ScrapBays project demonstrates extensive experience in developing enterprise-grade Android applications using modern technologies and architectural best practices.
+
+### Technical Skills
+
+- Android SDK
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Kotlin Coroutines
+- Kotlin Flow
+- StateFlow
+- Retrofit
+- OkHttp
+- REST API Integration
+- Dagger Hilt
+- Google Maps SDK
+- Fused Location Provider
+- CameraX
+- Image Compression
+- Multipart File Upload
+- WorkManager
+- Firebase Authentication
+- Firebase Cloud Messaging (FCM)
+- Firebase Analytics
+- Firebase Crashlytics
+- GitHub Actions
+- Bitrise
+
+### Marketplace Domain Expertise
+
+- Digital Marketplace Development
+- Circular Economy Solutions
+- Sustainable Commerce
+- Product Listing Management
+- Marketplace Search & Discovery
+- Category Management
+- Buyer & Seller Workflows
+- Order Management
+- Order Tracking
+- User Authentication
+- Profile Management
+- Image Capture & Upload
+- Push Notifications
+- Location-Based Services
+
+### Engineering Skills
+
+- Enterprise Android Development
+- Mobile Software Architecture
+- Modern Android Development
+- UI/UX Implementation
+- API Integration
+- Reactive Programming
+- State Management
+- Performance Optimization
+- Production Debugging & Root Cause Analysis
+- Code Reviews
+- Technical Planning
+- Agile Software Development
+- Cross-functional Collaboration
+- CI/CD
+- Continuous Improvement
+
+---
+
+## Screenshots
+
+The following screenshots highlight key user experiences within the ScrapBays Android application, including marketplace browsing, product listings, buying and selling workflows, profile management, and order tracking.
+
+<p align="center">
+
+<!-- Replace these image paths with your actual screenshots -->
+
+<img src="Images/Scrapbays/s1.webp" width="170"/>
+<img src="Images/Scrapbays/s2.webp" width="170"/>
+<img src="Images/Scrapbays/s3.webp" width="170"/>
+<img src="Images/Scrapbays/s4.webp" width="170"/>
+
+</p>
+
+---
+
+## Project Summary
+
+Working on **ScrapBays** has been one of the most rewarding milestones in my Android engineering career, providing the opportunity to build a modern marketplace platform that supports the recycling industry and promotes sustainable commerce through digital innovation.
+
+As a **Senior Android Developer**, I contributed to the design, development, enhancement, and maintenance of the Android application by implementing marketplace features, authentication workflows, product discovery, location-aware functionality, image capture and upload, order management, and seamless backend integration using modern Android technologies.
+
+The project enabled me to apply **Jetpack Compose**, **Clean Architecture**, **MVVM**, **Kotlin Coroutines**, **Flow**, **Dagger Hilt**, and other contemporary Android development practices to build scalable, maintainable, and production-ready solutions. I also collaborated closely with cross-functional teams, participated in architectural decisions, conducted code reviews, and supported CI/CD processes to ensure reliable software delivery.
+
+Supporting a growing platform with **10K+ users**, ScrapBays strengthened my expertise in enterprise Android development, marketplace architecture, performance optimization, reactive programming, modern UI development, and building user-centric mobile applications capable of evolving alongside business needs.
+
+ScrapBays represents my latest commercial Android project and reflects my continued growth as a software engineer, demonstrating my ability to deliver high-quality, scalable, and business-focused mobile solutions using the latest Android technologies and engineering best practices.
+
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
 
