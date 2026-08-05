@@ -1280,32 +1280,356 @@ Supporting a growing platform with **10K+ users**, ScrapBays strengthened my exp
 
 ScrapBays represents my latest commercial Android project and reflects my continued growth as a software engineer, demonstrating my ability to deliver high-quality, scalable, and business-focused mobile solutions using the latest Android technologies and engineering best practices.
 
-# [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
-Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
+# 💳 [VowPay – Digital Payments & Remittance Platform](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). VowPay is built with Android Studio and written entirely in purely Kotlin. VowPay is my ongoing project.
+> **Role:** Senior Android Engineer  
+> **Industry:** FinTech | Digital Payments | Financial Services  
+> **Platform:** Android
 
-### My Role ###
-Senior Android developer Communicating with client, understanding requirements and sprint planning.
+---
 
-### Technologies ###
-* Kotlin
-* Dagger Hilt
-* Junit
-* Kotlin coroutines
-* MVVM
-* Glide
-* Push Notifications
-* Firebase
-* TDD
-* SSl Pinning
-* GoogleMaps
-* Modular Approaach
-* Payment gateways
-* Lottie-Animations
+## Project Overview
+
+VowPay is a modern FinTech platform that enables users to securely manage their finances through digital wallets, international money transfers, QR payments, beneficiary management, bank account linking, transaction history, identity verification (KYC), and secure authentication.
+
+The Android application delivers a fast, secure, and intuitive mobile experience while maintaining the reliability, performance, and security standards expected from financial applications. Users can perform everyday financial operations with confidence through a seamless interface designed to simplify digital payments and cross-border transactions.
+
+Building and maintaining the application required a strong focus on security, transaction integrity, scalable architecture, and reliable communication with backend financial services.
+
+---
+
+## Business Context
+
+In today's rapidly evolving financial landscape, users expect secure, reliable, and convenient digital banking experiences accessible directly from their mobile devices. VowPay supports these expectations by providing an Android application that enables users to perform financial operations with confidence while maintaining strong security practices and regulatory compliance requirements.
+
+Developing financial applications requires balancing user experience with strict security considerations, transaction reliability, and data integrity. Every feature must be implemented with a strong emphasis on accuracy, security, and performance to build user trust and support business growth.
+
+As part of the Android engineering team, I contributed to delivering secure, maintainable, and scalable mobile solutions that aligned with both technical standards and business objectives.
+
+---
+
+## My Role
+
+As a **Senior Android Engineer**, I collaborated with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and fellow Android developers to design, develop, test, and maintain production-ready Android features for the VowPay platform.
+
+My role extended beyond feature implementation to include architecture discussions, API integrations, code reviews, production issue investigation, technical planning, and continuous improvements to the Android application.
+
+Working within Agile development teams, I participated throughout the complete software development lifecycle, ensuring that each release maintained the high standards expected from a financial application.
+
+---
+
+## Responsibilities
+
+My responsibilities included:
+
+- Designing and developing secure Android features using Kotlin and modern Android development practices.
+- Implementing international money transfer workflows.
+- Developing beneficiary management features for sending and managing recipients.
+- Building secure digital wallet functionality.
+- Implementing QR payment features for convenient financial transactions.
+- Developing transaction history and transaction detail screens.
+- Integrating bank account linking and account management functionality.
+- Implementing biometric authentication and secure login experiences.
+- Supporting OTP verification and authentication workflows.
+- Participating in KYC (Know Your Customer) onboarding and identity verification flows.
+- Integrating REST APIs and backend financial services.
+- Applying Clean Architecture and MVVM principles throughout the application.
+- Building reusable UI components using Jetpack Compose and XML.
+- Collaborating closely with backend engineers to ensure secure and reliable financial transactions.
+- Performing code reviews and maintaining Android engineering standards.
+- Investigating production issues and implementing sustainable solutions.
+- Participating in Agile ceremonies including sprint planning, backlog refinement, estimation, retrospectives, and release planning.
+- Supporting CI/CD pipelines and production releases.
+
+---
+
+## Key Contributions
+
+During my time on VowPay, I contributed to multiple core financial features that enhanced the overall user experience and strengthened the platform's capabilities.
+
+Key contributions included:
+
+- Developed secure international money transfer functionality.
+- Built beneficiary management features allowing users to manage transfer recipients efficiently.
+- Implemented digital wallet features supporting everyday financial operations.
+- Developed QR payment functionality to simplify digital transactions.
+- Built transaction history screens with detailed transaction information.
+- Integrated bank account linking workflows to improve account management.
+- Implemented biometric authentication for secure and convenient user access.
+- Developed OTP verification flows to strengthen account security.
+- Contributed to KYC onboarding and identity verification features.
+- Integrated backend financial services using REST APIs.
+- Utilized Kotlin Coroutines and Flow for asynchronous programming and state management.
+- Applied Clean Architecture and MVVM to support scalable application development.
+- Built reusable UI components that improved consistency and maintainability.
+- Participated in architecture discussions supporting long-term application scalability.
+- Conducted code reviews and promoted Android engineering best practices.
+- Collaborated closely with Product Managers, Designers, Backend Engineers, and QA teams to deliver high-quality financial solutions.
+
+---
+## Architecture
+
+The VowPay Android application was designed using modern Android architecture principles to ensure security, scalability, maintainability, and reliability. Given the nature of financial applications, the architecture emphasized clean separation of responsibilities, secure communication, modular development, and efficient state management while supporting continuous product enhancements.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model-View-ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Secure API Communication
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── Jetpack Compose / XML
+├── ViewModels
+├── UI State Management
+│
+Domain Layer
+│
+├── Use Cases
+├── Business Logic
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Storage
+├── Firebase Services
+│
+Core Libraries
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+```
+
+The architecture provided several advantages:
+
+- Clear separation between presentation, business logic, and data layers.
+- Improved maintainability and scalability.
+- Better code reusability.
+- Easier testing and debugging.
+- Simplified feature development.
+- Efficient collaboration across engineering teams.
+- Long-term support for continuous product evolution.
+
+---
+
+## Engineering Challenges
+
+Developing a FinTech application required balancing security, usability, and performance while ensuring a seamless user experience.
+
+Key engineering challenges included:
+
+- Implementing secure authentication through biometric login and OTP verification.
+- Developing reliable international money transfer workflows while maintaining transaction integrity.
+- Managing complex financial states during payment processing and transaction execution.
+- Integrating multiple backend financial services while ensuring reliable API communication.
+- Supporting KYC onboarding and identity verification workflows.
+- Maintaining application stability across different Android devices and operating system versions.
+- Ensuring accurate synchronization of transaction history and wallet balances.
+- Delivering secure QR payment functionality with a responsive user experience.
+- Maintaining clean architecture while supporting continuous product evolution.
+- Collaborating with cross-functional teams to deliver secure and reliable financial services.
+
+### Secure Financial Operations
+
+Financial applications require secure communication between mobile clients and backend systems while protecting sensitive user information and ensuring transaction integrity.
+
+### Reliable API Integration
+
+Maintaining reliable communication with backend services while handling network failures, server responses, and transaction states required careful implementation and robust error handling.
+
+### Responsive User Experience
+
+Financial operations should feel responsive and intuitive while processing data securely in the background without compromising user experience.
+
+### Application Stability
+
+Since users rely on financial applications for important daily transactions, maintaining stability and minimizing production issues was a continuous priority.
+
+### Scalable Feature Development
+
+As business requirements evolved, the Android application needed to support new financial services while preserving maintainability and minimizing technical debt.
+
+### Cross-functional Collaboration
+
+Developing secure financial features required continuous collaboration with Product Managers, Backend Engineers, QA Engineers, Designers, and other Android developers to ensure technical accuracy and business alignment.
+
+---
+
+## Business Impact
+
+My contributions helped strengthen VowPay's Android platform by delivering secure, scalable, and user-friendly financial solutions that supported the company's digital payment ecosystem.
+
+Through the implementation of international money transfers, wallet management, QR payments, beneficiary management, KYC onboarding, secure authentication, and transaction history features, I contributed to improving the overall user experience while maintaining high standards of reliability, security, and software quality.
+
+By applying modern Android architecture and engineering best practices, I helped support the platform's long-term scalability and continuous product evolution.
+---
+
+## Key Achievements
+
+Throughout the project, I contributed to delivering secure, scalable, and production-ready Android features while maintaining high engineering standards.
+
+Key achievements include:
+
+- Delivered production-ready financial features supporting digital payments and international money transfers.
+- Successfully implemented beneficiary management and transaction history functionality.
+- Built secure digital wallet and bank account linking features.
+- Developed QR payment capabilities to improve payment accessibility.
+- Implemented biometric authentication and OTP verification for enhanced account security.
+- Contributed to KYC onboarding and identity verification workflows.
+- Applied Clean Architecture and MVVM principles to improve scalability and maintainability.
+- Integrated backend financial services through secure REST API communication.
+- Utilized Kotlin Coroutines and Flow to simplify asynchronous operations.
+- Conducted code reviews and maintained Android engineering standards.
+- Investigated production issues and implemented sustainable solutions using structured debugging approaches.
+- Collaborated with Product Managers, Designers, Backend Engineers, and QA teams throughout the software development lifecycle.
+- Supported Agile software delivery through sprint planning, backlog refinement, estimation, and release planning.
+- Contributed to reliable CI/CD pipelines and continuous product improvements.
+
+---
+
+## Professional Growth
+
+Working on VowPay strengthened my expertise in enterprise FinTech application development and modern Android engineering practices.
+
+The project enhanced my experience in:
+
+- Secure Android application development.
+- Financial application architecture.
+- Clean Architecture and MVVM.
+- API integration.
+- Kotlin development.
+- Kotlin Coroutines and Flow.
+- Modular application design.
+- Production debugging and monitoring.
+- Code reviews and engineering collaboration.
+- Agile software development.
+- Continuous Integration and Continuous Delivery (CI/CD).
+- Building scalable Android applications for financial services.
+
+---
+## Technologies
+
+The VowPay Android application was developed using modern Android technologies, frameworks, and architectural patterns to deliver a secure, scalable, and maintainable financial platform.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Kotlin, Java |
+| **UI Development** | Jetpack Compose, XML, Material Design |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Kotlin Flow, StateFlow |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Local Storage** | Room, DataStore, SharedPreferences |
+| **Dependency Injection** | Dagger Hilt |
+| **Firebase** | Firebase Authentication, Firebase Analytics, Firebase Cloud Messaging (FCM), Firebase Crashlytics |
+| **Testing** | JUnit, MockK, Unit Testing |
+| **CI/CD** | GitHub Actions, Bitrise |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Figma |
+
+---
+
+## Engineering Practices
+
+Throughout the development of VowPay, I followed modern Android engineering practices to ensure high code quality, maintainability, scalability, and reliable software delivery.
+
+Engineering practices included:
+
+- Writing clean, maintainable, and well-structured Kotlin code.
+- Following Clean Architecture and SOLID principles throughout the application.
+- Building reusable UI components to improve consistency and reduce code duplication.
+- Implementing scalable MVVM architecture for better separation of concerns.
+- Conducting code reviews to maintain coding standards and improve software quality.
+- Collaborating with cross-functional teams throughout the complete development lifecycle.
+- Participating in architecture discussions and technical planning.
+- Debugging production issues and implementing sustainable fixes.
+- Supporting Agile software development and iterative product delivery.
+- Contributing to continuous integration and deployment processes.
+
+---
+
+## Skills Demonstrated
+
+The VowPay project strengthened my expertise in Android application development for financial services while reinforcing modern engineering principles and collaborative software development.
+
+### Technical Skills
+
+- Android SDK
+- Kotlin
+- Jetpack Compose
+- XML
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- Retrofit
+- REST APIs
+- Room
+- Kotlin Coroutines
+- Kotlin Flow
+- Dagger Hilt
+- Firebase
+- CI/CD
+- GitHub Actions
+- Bitrise
+
+### Engineering Skills
+
+- Mobile Application Architecture
+- Financial Application Development
+- Feature Development
+- Software Design
+- Performance Optimization
+- Production Support
+- API Integration
+- Code Review
+- Debugging
+- Root Cause Analysis
+- Agile Development
+- Cross-functional Collaboration
+- Technical Planning
+- Continuous Improvement
+- Software Quality
+
+---
+
+## Screenshots
+
+The following screenshots showcase key areas of the VowPay Android application, demonstrating the user experience, financial workflows, and application interface.
+
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/04.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/05.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/VowPay/1170%20x%202532.jpg" title="Banner">
+
+<!-- Replace these with your actual screenshots -->
+
+<img src="Images/VowPay/01.jpg" width="170"/>
+<img src="Images/VowPay/02.jpg" width="170"/>
+<img src="Images/VowPay/03.jpg" width="170"/>
+<img src="Images/VowPay/04.jpg" width="170"/>
+
+<img src="Images/VowPay/05.jpg" width="170"/>
+<img src="Images/VowPay/1170%20x%202532.jpg" title="Banner">
+
 </p>
+
+---
+
+## Project Summary
+
+Working on **VowPay** provided valuable experience in developing secure, scalable, and production-ready Android applications within the FinTech domain. The project required a strong focus on application reliability, maintainability, and seamless integration with backend financial services while delivering an intuitive and responsive user experience.
+
+Throughout the project, I contributed to designing and implementing Android features, improving application architecture, integrating backend services, maintaining software quality, and supporting continuous product evolution. By applying modern Android development practices, Clean Architecture, and collaborative engineering approaches, I helped build a maintainable and scalable mobile application capable of supporting evolving business requirements.
+
+The project strengthened my expertise in enterprise Android development, financial application architecture, API integration, asynchronous programming with Kotlin Coroutines and Flow, production support, CI/CD, and cross-functional collaboration. It also reinforced the importance of writing secure, maintainable, and user-focused software that aligns with both technical standards and business objectives.
+
+VowPay represents an important milestone in my professional journey, showcasing my ability to contribute effectively to modern FinTech solutions while delivering high-quality Android applications using industry best practices and scalable software engineering principles.
 
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 YAP is Fintech application (MVVM-Kotlin): Being built using Kotlin and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
