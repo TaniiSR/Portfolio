@@ -529,7 +529,7 @@ The following screenshots showcase the **Motive Driver App**, highlighting key w
 <img src="Images/Motive/m1.webp" width="170"/>
 <img src="Images/Motive/m2.webp" width="170"/>
 <img src="Images/Motive/m3.webp" width="170"/>
-<img src="Images/LAD/m4.webp" width="170"/>
+<img src="Images/Motive/m4.webp" width="170"/>
 
 <img src="Images/Motive/m5.webp" width="170"/>
 <img src="Images/Motive/m6.webp" width="170"/>
