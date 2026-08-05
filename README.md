@@ -179,7 +179,7 @@ Responsibilities have included:
 
 The following projects demonstrate my experience designing, developing, and maintaining Android applications across multiple business domains. Each project highlights the engineering challenges, architectural decisions, technologies used, and my contributions toward delivering production-ready mobile solutions.
 .
-# 🚛 Motive Driver App – AI-Powered Fleet Operations & Compliance Platform
+# 🚛 [Motive Driver App – AI-Powered Fleet Operations & Compliance Platform](https://play.google.com/store/apps/details?id=com.keeptruckin.android&hl=en_GB)
 
 > **Role:** Software Engineer Android (L5)  
 > **Company:** Motive  
@@ -520,11 +520,22 @@ Working within a large enterprise codebase has strengthened my ability to balanc
 
 # Screenshots
 
-Due to the proprietary nature of Motive's enterprise platform and company confidentiality policies, application screenshots cannot be publicly shared.
+The following screenshots showcase the **Motive Driver App**, highlighting key workflows for commercial drivers, including compliance management, Hours of Service (HOS), electronic logging, inspections, operational tasks, profile management, and other core fleet operations that support safe, efficient, and compliant transportation.
 
-Instead, this project highlights the engineering challenges, architectural decisions, and technical contributions involved in developing and maintaining a large-scale enterprise Android application.
+<p align="center">
 
----
+<!-- Replace these image paths with your actual screenshots -->
+
+<img src="Images/Motive/m1.webp" width="170"/>
+<img src="Images/Motive/m2.webp" width="170"/>
+<img src="Images/Motive/m3.webp" width="170"/>
+<img src="Images/LAD/m4.webp" width="170"/>
+
+<img src="Images/Motive/m5.webp" width="170"/>
+<img src="Images/Motive/m6.webp" width="170"/>
+<img src="Images/Motive/m7.webp" width="170"/>
+
+</p>
 
 # Project Summary
 
@@ -537,38 +548,358 @@ Beyond delivering features, I collaborate closely with Product Managers, Designe
 This role has significantly strengthened my expertise in enterprise Android architecture, product engineering, technical leadership, cross-functional collaboration, and building software that serves mission-critical business operations at scale. It reflects my evolution from implementing mobile features to contributing strategically to the long-term success and technical direction of a globally recognized enterprise SaaS platform.
 
 
-# [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en))
-Mindvalley is a transformational learning app offering self-help courses, meditation programs, and daily motivation sessions for personal growth and wellness. It empowers users to explore themes like spirituality, self-care, confidence building, and mindset development through engaging video content and guided experiences.
+# 🚀 [Mindvalley – Personal Growth & Learning Platform](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en)
 
-Mindvalley is a well-architected Android application (MVVM – Kotlin): Built using modern development principles such as MVVM architecture, Kotlin Coroutines, Jetpack libraries, and a modular structure for scalability and maintainability. The app supports dynamic content delivery, rich media playback, daily tasks/reminders, and user progress tracking. It features seamless UI built with Jetpack Compose and XML, with animations and responsive layouts designed for both phones and tablets. CI/CD pipelines are automated using Fastlane and GitHub Actions for efficient deployment.
+> **Role:** Senior Android Engineer  
+> **Industry:** EdTech | Personal Development | Digital Learning  
+> **Platform:** Android
 
-I’m especially proud of how intuitive and polished the user experience is — from onboarding to personalized course recommendations. The app continues to evolve with ongoing contributions, reflecting our mission to unleash human potential through technology and education.
+---
 
-### My Role ###
-Senior Android developer Communicating with cross functional teams, mentoring, understanding requirements and sprint planning.
+## Project Overview
 
-### Technologies ###
-* Kotlin
-* Dagger Hilt
-* Junit
-* Kotlin coroutines
-* MVVM
-* Glide
-* Push Notifications
-* Firebase
-* TDD
-* SSl Pinning
-* GoogleMaps
-* Modular Approaach
-* CI/CD Bitrise
-* Authuntication
-* Payment gateways
-* Jetpack compose
-* Lottie-Animations
+Mindvalley is one of the world's leading personal growth and digital learning platforms, empowering millions of learners through transformational education, guided programs, coaching sessions, wellness content, and immersive learning experiences. The Android application enables users to access premium educational content anytime and anywhere while delivering a seamless, engaging, and personalized mobile experience.
+
+The platform continuously evolves by introducing new learning experiences, improving user engagement, and expanding its educational ecosystem. Building and maintaining such a large-scale Android application required a strong focus on software architecture, scalability, performance, maintainability, and user experience.
+
+As part of the Android engineering team, I contributed to developing high-quality mobile solutions that aligned with both engineering best practices and business objectives while supporting continuous product growth.
+
+---
+
+## Business Context
+
+Mindvalley's Android application serves as one of the primary touchpoints between the company and its global community of learners. It is responsible for delivering educational programs, personalized learning journeys, multimedia content, progress tracking, notifications, and interactive user experiences that encourage continuous learning and engagement.
+
+Given the scale and continuous evolution of the platform, maintaining a clean, scalable, and maintainable architecture was essential for supporting frequent feature releases without compromising application quality or user experience.
+
+Working within a collaborative Agile environment, I helped deliver Android features that supported the company's long-term product vision while ensuring engineering excellence throughout the development lifecycle.
+
+---
+
+## My Role
+
+As a **Senior Android Engineer**, I collaborated closely with Product Managers, Designers, Backend Engineers, QA Engineers, and fellow Android developers to design, develop, test, and maintain production-ready Android features.
+
+Beyond feature implementation, I actively participated in architecture discussions, technical planning, code reviews, debugging production issues, release preparation, and continuous improvement initiatives that contributed to the overall quality of the application.
+
+My responsibilities extended across the complete Android development lifecycle, from understanding business requirements to delivering production-ready solutions and supporting post-release improvements.
+
+---
+
+## Responsibilities
+
+My responsibilities throughout the project included:
+
+- Designing and developing scalable Android features using Kotlin.
+- Translating business requirements into maintainable technical solutions.
+- Building reusable UI components using Jetpack Compose and XML.
+- Applying Clean Architecture principles to maintain a modular and scalable codebase.
+- Following MVVM architecture to ensure separation of concerns.
+- Integrating GraphQL services using Apollo.
+- Consuming REST APIs where required.
+- Managing asynchronous operations using Kotlin Coroutines and Flow.
+- Participating in architecture discussions and technical planning sessions.
+- Collaborating with Product Managers to understand feature requirements.
+- Working closely with UX/UI designers to deliver polished user experiences.
+- Coordinating with backend teams to integrate APIs and validate business logic.
+- Supporting QA during testing cycles and release preparation.
+- Investigating production issues using Firebase Crashlytics.
+- Performing code reviews and promoting Android development best practices.
+- Participating in Agile ceremonies including sprint planning, estimation, backlog refinement, retrospectives, and release planning.
+- Supporting CI/CD pipelines to ensure reliable application delivery.
+
+---
+
+## Key Contributions
+
+Working on Mindvalley provided the opportunity to contribute across multiple areas of Android engineering, from feature implementation to architecture improvements and application stability.
+
+Major contributions included:
+
+- Developed production-ready Android features using Kotlin and modern Android development practices.
+- Built reusable and maintainable UI components that improved development efficiency and consistency throughout the application.
+- Applied Clean Architecture and MVVM principles to improve scalability and long-term maintainability.
+- Contributed to modular application development by keeping features loosely coupled and easy to extend.
+- Integrated GraphQL APIs using Apollo while maintaining clean abstraction between presentation and data layers.
+- Utilized Kotlin Coroutines and Flow to simplify asynchronous operations and improve application responsiveness.
+- Collaborated closely with backend teams to ensure seamless API integration and reliable data synchronization.
+- Improved engineering quality through code reviews, knowledge sharing, and adherence to coding standards.
+- Worked with designers to implement responsive, intuitive, and visually consistent user interfaces.
+- Investigated production issues using Firebase Crashlytics and participated in resolving stability-related issues.
+- Contributed to continuous improvements that supported maintainability, scalability, and long-term product evolution.
+- Worked within Agile development practices to deliver features through iterative development and continuous feedback.
+
+---
+## Architecture
+
+The Mindvalley Android application follows modern Android development principles and scalable software architecture to support continuous product evolution while maintaining high standards of code quality, performance, and maintainability.
+
+The architecture emphasizes clear separation of responsibilities, modular development, reusable components, and testable code, enabling multiple engineering teams to collaborate efficiently while minimizing technical debt.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model–View–ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Single Source of Truth
+- Unidirectional Data Flow (where applicable)
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── Jetpack Compose / XML
+├── ViewModels
+├── UI State
+│
+Domain Layer
+│
+├── Use Cases
+├── Business Logic
+│
+Data Layer
+│
+├── Repository
+├── Apollo GraphQL
+├── Retrofit APIs
+├── Room / SQLDelight
+├── Firebase Services
+│
+Core Libraries
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+```
+
+This architectural approach provides several long-term benefits, including:
+
+- Better scalability for future feature development.
+- Improved code maintainability.
+- Clear separation between business logic and presentation.
+- Simplified testing and debugging.
+- Increased code reusability.
+- Easier collaboration between engineering teams.
+- Reduced technical debt over time.
+
+---
+
+## Engineering Challenges
+
+Working on a mature production application serving a global audience presented several technical challenges that required thoughtful engineering decisions and close collaboration across teams.
+
+Some of the key challenges included:
+
+### Scalable Feature Development
+
+As the product continued to evolve, new features needed to integrate seamlessly with the existing architecture while maintaining long-term maintainability and minimizing technical debt.
+
+### Complex UI State Management
+
+Managing asynchronous data, user interactions, and dynamic UI updates required careful state management to ensure smooth and responsive user experiences.
+
+### Large Codebase Maintenance
+
+Working within a continuously growing Android codebase required following established architectural patterns, writing clean and reusable code, and maintaining consistency across multiple feature modules.
+
+### API Integration
+
+The application relied on GraphQL and REST services to retrieve personalized content, user progress, and learning resources. Ensuring reliable communication, proper error handling, and efficient data synchronization was essential for delivering a seamless experience.
+
+### Production Stability
+
+Maintaining application stability across a diverse Android ecosystem required proactive monitoring, debugging, and issue resolution using Firebase Crashlytics and structured debugging techniques.
+
+### Cross-functional Collaboration
+
+Delivering complex features required close collaboration with Product Managers, Designers, Backend Engineers, and QA Engineers throughout planning, implementation, testing, and release phases.
+
+---
+
+## Business Impact
+
+Mindvalley's Android application is a critical platform for delivering digital learning experiences to users worldwide. Every feature contributes toward improving accessibility, engagement, and the overall learning journey.
+
+My contributions focused on developing scalable Android solutions that aligned with business objectives while supporting continuous product innovation.
+
+By applying modern Android engineering practices and maintaining a clean architecture, I helped contribute to a codebase capable of supporting ongoing feature development, continuous releases, and long-term product evolution.
+
+Working collaboratively with cross-functional teams enabled efficient delivery of new capabilities while maintaining application quality, engineering standards, and a consistent user experience.
+
+---
+
+## Key Achievements
+
+Throughout the project, I contributed to the successful delivery and continuous improvement of the Android application by applying modern software engineering principles and Android best practices.
+
+Some of my key achievements include:
+
+- Delivered multiple production-ready Android features throughout the product lifecycle.
+- Contributed to the modernization of the Android application using Kotlin and modern Android development practices.
+- Applied Clean Architecture and MVVM principles to improve maintainability, scalability, and code organization.
+- Built reusable Android components that reduced duplication and simplified future feature development.
+- Integrated GraphQL services using Apollo while maintaining a clean networking architecture.
+- Utilized Kotlin Coroutines and Flow to simplify asynchronous programming and state management.
+- Contributed to modular Android development that supported long-term application growth.
+- Improved engineering quality through code reviews and adherence to coding standards.
+- Investigated and resolved production issues using Firebase Crashlytics.
+- Collaborated closely with backend engineers to ensure reliable API integration.
+- Worked alongside Product Managers and Designers to translate business requirements into high-quality Android features.
+- Participated in architecture discussions that supported the long-term evolution of the Android application.
+- Supported Agile development through sprint planning, backlog refinement, technical estimation, and iterative delivery.
+- Contributed to reliable software delivery through established CI/CD pipelines and engineering best practices.
+- Continuously focused on writing clean, maintainable, and testable code that supports future scalability.
+
+---
+
+## Professional Growth
+
+Working on Mindvalley strengthened my expertise in building and maintaining enterprise-scale Android applications using modern development practices.
+
+The project provided valuable experience in:
+
+- Large-scale Android application development.
+- Designing maintainable and scalable software architectures.
+- Building reusable UI components.
+- Modern Kotlin development.
+- Reactive programming with Coroutines and Flow.
+- GraphQL integration using Apollo.
+- Cross-functional collaboration.
+- Agile software development.
+- Production debugging and monitoring.
+- Code reviews and engineering collaboration.
+- Continuous Integration and Continuous Delivery (CI/CD).
+- Delivering high-quality software in a fast-paced product environment.
+
+---
+## Technologies
+
+The project was built using modern Android development tools, libraries, and architectural patterns to ensure scalability, maintainability, performance, and long-term product evolution.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Kotlin, Java |
+| **UI Development** | Jetpack Compose, XML, Material Design |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Kotlin Flow, StateFlow, SharedFlow |
+| **Networking** | Apollo GraphQL, Retrofit, OkHttp |
+| **Local Storage** | Room, SQLDelight, DataStore, SharedPreferences |
+| **Dependency Injection** | Dagger Hilt |
+| **Firebase** | Firebase Authentication, Firebase Analytics, Firebase Cloud Messaging (FCM), Firebase Crashlytics |
+| **Testing** | JUnit, MockK, Unit Testing |
+| **CI/CD** | GitHub Actions, Bitrise |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Figma |
+
+---
+
+## Engineering Practices
+
+Throughout the project, I consistently followed modern software engineering practices to ensure code quality, maintainability, and efficient collaboration across the development team.
+
+These practices included:
+
+- Writing clean, readable, and maintainable Kotlin code.
+- Applying SOLID principles and Clean Architecture to support long-term scalability.
+- Developing reusable UI components to improve consistency and reduce duplication.
+- Following code review best practices and maintaining coding standards.
+- Writing modular code to simplify future enhancements.
+- Participating in technical discussions and architecture reviews.
+- Collaborating closely with Product Managers, Designers, Backend Engineers, and QA teams.
+- Investigating production issues and implementing sustainable solutions.
+- Supporting continuous improvement through Agile development methodologies.
+- Contributing to stable and reliable application releases through CI/CD pipelines.
+
+---
+
+## Skills Demonstrated
+
+This project strengthened both my technical expertise and collaborative engineering skills.
+
+### Technical Skills
+
+- Android SDK
+- Kotlin
+- Jetpack Compose
+- XML
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- GraphQL (Apollo)
+- Retrofit
+- Room
+- SQLDelight
+- Kotlin Coroutines
+- Kotlin Flow
+- Dagger Hilt
+- Firebase
+- CI/CD
+- GitHub Actions
+- Bitrise
+
+### Engineering Skills
+
+- Software Architecture
+- Mobile Application Design
+- Feature Development
+- Performance Optimization
+- Production Support
+- Code Review
+- Debugging
+- Root Cause Analysis
+- API Integration
+- Agile Development
+- Cross-functional Collaboration
+- Technical Planning
+- Software Quality
+- Problem Solving
+- Continuous Improvement
+
+---
+
+## Screenshots
+
+The following screenshots highlight various features and user experiences within the Mindvalley Android application.
+
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/01.jpg" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/02.jpg" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/03.jpg" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/04.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/05.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/06.webp" width="150" title="Banner">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/07.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/08.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/09.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/10.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/11.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/12.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/13.webp" width="150" title="Banner"> <img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Mindvalley/14.webp" width="150" title="Banner">
+
+<img src="Images/Mindvalley/01.jpg" width="170"/>
+<img src="Images/Mindvalley/02.jpg" width="170"/>
+<img src="Images/Mindvalley/03.jpg" width="170"/>
+<img src="Images/Mindvalley/04.webp" width="170"/>
+
+<img src="Images/Mindvalley/05.webp" width="170"/>
+<img src="Images/Mindvalley/06.webp" width="170"/>
+<img src="Images/Mindvalley/07.webp" width="170"/>
+<img src="Images/Mindvalley/08.webp" width="170"/>
+
+<img src="Images/Mindvalley/09.webp" width="170"/>
+<img src="Images/Mindvalley/10.webp" width="170"/>
+<img src="Images/Mindvalley/11.webp" width="170"/>
+<img src="Images/Mindvalley/12.webp" width="170"/>
+
+<img src="Images/Mindvalley/13.webp" width="170"/>
+<img src="Images/Mindvalley/14.webp" width="170"/>
+
 </p>
+
+---
+
+## Project Summary
+
+Working on **Mindvalley** has been one of the most rewarding experiences of my career as an Android Engineer. It provided the opportunity to contribute to a globally recognized digital learning platform while working alongside talented cross-functional teams in a collaborative Agile environment.
+
+Throughout the project, I was involved in designing and delivering production-ready Android features, improving application architecture, integrating modern technologies, maintaining application quality, and supporting continuous product evolution. By applying modern Android development practices, scalable architectural patterns, and engineering best practices, I contributed to building a reliable, maintainable, and user-focused mobile application.
+
+This project strengthened my expertise in enterprise Android development, Clean Architecture, Jetpack Compose, GraphQL integration, asynchronous programming with Kotlin Coroutines and Flow, CI/CD, production support, and collaborative software engineering. It also reinforced the importance of writing maintainable code, embracing continuous learning, and delivering high-quality mobile experiences that align with both technical and business objectives.
+
+Mindvalley remains one of the flagship projects in my professional portfolio, demonstrating my experience in building scalable Android applications using modern technologies, collaborating across multidisciplinary teams, and contributing to products that continuously evolve to meet the needs of users around the world.
+
 
 # [VOWPAY](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 Vowpay is an international money transfer app for sending remittances digitally. This can be leveraged to support any country of the customer’s choice. The App provides instant cash out facilities and immediate bank account transfers to users. Vowpay is Fintech application (MVVM-Kotlin): Being built using Reactive and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE.
