@@ -1,6 +1,541 @@
-# Portfolio
-Experienced and dedicated Android app developer offering more than 9 years of expertise to the Android Application industry. Dynamic and personable with a strong focus on the application lifecycle. Desires a software-driven position that provides customized business-to-business applications.
+# 👋 Hi, I'm Tanveer Munir
+
+<div align="center">
+
+# Senior Android Engineer | Kotlin | Jetpack Compose | Clean Architecture
+
+**Building scalable Android applications for FinTech, EdTech, HealthTech, Logistics, and Enterprise products.**
+
+[![Android](https://img.shields.io/badge/Android-Expert-3DDC84?logo=android)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-Expert-7F52FF?logo=kotlin)]()
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Experienced-4285F4)]()
+[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Advanced-success)]()
+[![MVVM](https://img.shields.io/badge/MVVM-Advanced-blue)]()
+[![GraphQL](https://img.shields.io/badge/GraphQL-Apollo-E10098?logo=graphql)]()
+
+</div>
+
+---
+
+# About Me
+
+I am a **Senior Android Engineer** with **10+ years of professional experience** designing, developing, and maintaining high-quality Android applications across multiple industries, including **FinTech, EdTech, HealthTech, Logistics, E-commerce, and Enterprise Solutions**.
+
+Throughout my career, I have contributed to the development of production Android applications used by customers across different regions, delivering secure, scalable, and maintainable mobile solutions while collaborating with cross-functional teams in Agile environments.
+
+My expertise spans the complete Android development lifecycle—from requirements analysis and architecture design to implementation, testing, deployment, and production support. I enjoy solving complex engineering challenges, modernizing legacy codebases, and building software that remains maintainable as products evolve.
+
+I have extensive experience working with modern Android technologies, architectural patterns, and engineering best practices, with a strong focus on performance, code quality, scalability, and user experience.
+
+---
+
+# Career Highlights
+
+- **10+ years** of professional Android development experience
+- Built and maintained production Android applications across multiple industries
+- Expertise in Kotlin-first Android development
+- Strong background in Clean Architecture and MVVM
+- Extensive experience with Jetpack Compose and modern Android development
+- Developed secure financial applications involving authentication, payments, and user verification
+- Experience integrating REST APIs and GraphQL services
+- Strong understanding of scalable modular Android applications
+- Worked in Agile Scrum teams with distributed engineering organizations
+- Collaborated closely with Product Managers, Designers, Backend Engineers, and QA teams
+- Mentored Android developers through code reviews and technical discussions
+- Delivered multiple production releases through CI/CD pipelines
+
+---
+
+# Technical Expertise
+
+## Languages
+
+- Kotlin
+- Java
+
+## Android
+
+- Android SDK
+- Jetpack Compose
+- Material Design
+- XML
+- Navigation Component
+- WorkManager
+- CameraX
+- Bluetooth Low Energy (BLE)
+- Google Maps SDK
+- Push Notifications
+
+## Architecture
+
+- Clean Architecture
+- MVVM
+- MVI
+- SOLID Principles
+- Repository Pattern
+- Modular Architecture
+
+## Asynchronous Programming
+
+- Kotlin Coroutines
+- Kotlin Flow
+- StateFlow
+- SharedFlow
+
+## Networking
+
+- Retrofit
+- OkHttp
+- Apollo GraphQL
+- Gson
+
+## Local Storage
+
+- Room
+- SQLDelight
+- DataStore
+- SharedPreferences
+
+## Dependency Injection
+
+- Dagger Hilt
+- Dagger 2
+
+## Testing
+
+- JUnit
+- MockK
+- Unit Testing
+
+## Firebase
+
+- Firebase Authentication
+- Firebase Cloud Messaging
+- Firebase Crashlytics
+- Firebase Analytics
+
+## CI/CD
+
+- GitHub Actions
+- Bitrise
+- Fastlane
+
+---
+
+# Engineering Principles
+
+My approach to Android engineering is centered around building software that remains scalable, maintainable, and reliable over time.
+
+I strongly believe in:
+
+- Writing clean, readable, and testable code
+- Building reusable and modular components
+- Designing scalable architectures
+- Performance optimization
+- Continuous improvement
+- Knowledge sharing and mentoring
+- Delivering business value through engineering excellence
+
+---
+
+# Leadership & Collaboration
+
+Beyond implementation, I actively collaborate with cross-functional teams throughout the software development lifecycle.
+
+Responsibilities have included:
+
+- Feature planning
+- Technical discussions
+- Architecture reviews
+- Sprint planning
+- Requirement analysis
+- Code reviews
+- Mentoring Android developers
+- Production issue investigation
+- Release planning
+- Working closely with Product Managers, Designers, QA Engineers, and Backend Developers
+
+---
+
+# Core Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Languages | Kotlin, Java |
+| UI | Jetpack Compose, XML |
+| Architecture | MVVM, MVI, Clean Architecture |
+| Networking | Retrofit, Apollo GraphQL, OkHttp |
+| Database | Room, SQLDelight |
+| Async | Coroutines, Flow |
+| DI | Dagger Hilt |
+| Testing | JUnit, MockK |
+| Firebase | Crashlytics, Analytics, FCM |
+| CI/CD | GitHub Actions, Bitrise, Fastlane |
+| Tools | Android Studio, Git, Jira, Figma |
+
+---
+
+# Featured Projects
+
+The following projects demonstrate my experience designing, developing, and maintaining Android applications across multiple business domains. Each project highlights the engineering challenges, architectural decisions, technologies used, and my contributions toward delivering production-ready mobile solutions.
 .
+# 🚛 Motive Driver App – AI-Powered Fleet Operations & Compliance Platform
+
+> **Role:** Software Engineer Android (L5)  
+> **Company:** Motive  
+> **Industry:** Enterprise SaaS | Fleet Management | Transportation | AI  
+> **Platform:** Android
+
+---
+
+# Project Overview
+
+The **Motive Driver App** is a core component of Motive's AI-powered Integrated Operations Platform, empowering commercial drivers to manage regulatory compliance, electronic logging (ELD), Hours of Service (HOS), vehicle inspections, and daily operational workflows through a secure, scalable, and high-performance Android application.
+
+Serving commercial fleets across North America, the platform helps transportation companies improve driver safety, simplify compliance, increase operational efficiency, and gain real-time visibility into fleet operations. As part of Motive's broader ecosystem, the Driver App integrates with intelligent fleet management solutions that leverage AI, telematics, and operational insights to streamline business-critical workflows.
+
+As a **Software Engineer Android (L5)**, I contribute to the continuous evolution of one of Motive's flagship mobile products by developing scalable Android solutions, enhancing existing capabilities, modernizing legacy components, and maintaining a high-quality production codebase. My work spans the complete software development lifecycle, from technical design and implementation to testing, release, monitoring, and long-term maintenance.
+
+---
+
+# Business Context
+
+Commercial fleet operations require organizations to comply with complex transportation regulations while maintaining driver safety, operational efficiency, and business productivity. Managing compliance manually increases operational costs, introduces human error, and makes it difficult to maintain real-time visibility across large fleets.
+
+The Motive Driver App addresses these challenges by providing a unified mobile platform that enables drivers to complete compliance workflows, inspections, document management, operational tasks, and other day-to-day activities from a single application. By digitizing these processes, the platform reduces administrative overhead, improves operational accuracy, and helps businesses remain compliant while increasing overall fleet efficiency.
+
+---
+
+# My Role
+
+As a **Software Engineer Android (L5)** within the **Compliance Pod**, I collaborate with Product Managers, Product Designers, Backend Engineers, QA Engineers, Data & Analytics teams, and other engineering teams to deliver reliable, scalable, and business-focused Android solutions.
+
+My responsibilities extend beyond feature development and include technical solution design, engineering documentation, architecture discussions, legacy code modernization, analytics integration, production support, and continuous product improvements. Working within a large-scale enterprise codebase, I contribute to building maintainable software that supports long-term product growth while delivering an exceptional user experience.
+
+---
+
+# Responsibilities
+
+My key responsibilities include:
+
+- Designing, developing, and maintaining production-ready Android features using modern Android technologies.
+- Delivering compliance-related features within the Driver App that support regulatory workflows and operational efficiency.
+- Enhancing existing functionality while maintaining stability across a large-scale enterprise codebase.
+- Modernizing legacy components through incremental refactoring and adoption of modern Android development practices.
+- Preparing Technical Solution Design (TSD) documents to support new initiatives and architectural improvements.
+- Collaborating with cross-functional teams to translate business requirements into scalable technical solutions.
+- Integrating analytics to measure feature adoption, user behavior, and product performance.
+- Participating in technical design discussions, implementation planning, and architecture reviews.
+- Performing code reviews and promoting clean, maintainable, and scalable engineering practices.
+- Investigating production issues, identifying root causes, and implementing sustainable long-term fixes.
+- Supporting Agile software development through sprint planning, backlog refinement, estimation, and production releases.
+- Continuously improving application performance, maintainability, and overall engineering quality.
+
+---
+
+# Key Contributions
+
+Throughout my work on the Motive Driver App, I have contributed to the continuous enhancement of a mission-critical enterprise application used by commercial drivers and fleet operators.
+
+Key contributions include:
+
+- Delivered production-ready Android features supporting compliance and operational workflows.
+- Improved existing features by enhancing usability, maintainability, and application performance.
+- Contributed to the modernization of legacy code while preserving production stability.
+- Prepared Technical Solution Design (TSD) documentation for new features and engineering initiatives.
+- Collaborated across multiple engineering teams to deliver cross-functional product capabilities.
+- Integrated analytics to support data-driven product decisions and feature evaluation.
+- Participated in architectural discussions to ensure scalable and maintainable implementation strategies.
+- Performed code reviews and contributed to maintaining high engineering standards.
+- Investigated and resolved production issues through effective debugging and root cause analysis.
+- Contributed to continuous product evolution by delivering reliable, scalable, and user-focused Android solutions within an enterprise SaaS environment.
+
+---
+# Architecture
+
+The Motive Driver App is built on a modern, scalable Android architecture designed to support a rapidly evolving enterprise platform used by commercial drivers and fleet operators. The architecture emphasizes maintainability, modularity, performance, and long-term scalability, enabling multiple engineering teams to develop and evolve features independently while maintaining a consistent user experience.
+
+The application follows clean architectural principles with clear separation of responsibilities, allowing business logic, presentation, and data layers to evolve independently. Modern Android development practices, reactive programming, dependency injection, and modular design patterns are leveraged to support continuous product development while ensuring high code quality and maintainability.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model–View–ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Unidirectional Data Flow
+- Scalable Feature-Based Design
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── Jetpack Compose
+├── ViewModels
+├── UI State Management
+│
+Domain Layer
+│
+├── Business Logic
+├── Use Cases
+├── Compliance Workflows
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Persistence
+├── Analytics
+│
+Core Components
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+├── WorkManager
+├── Firebase
+├── Analytics Platform
+```
+
+The architecture provides:
+
+- Scalable feature development across multiple engineering teams.
+- Clear separation of concerns.
+- Improved maintainability and code readability.
+- High-performance reactive user interfaces.
+- Reusable business logic and UI components.
+- Efficient state management.
+- Simplified testing and debugging.
+- Long-term scalability for continuous product evolution.
+
+---
+
+# Engineering Challenges
+
+Working on the Motive Driver App involves solving engineering challenges within a large-scale enterprise Android application that supports mission-critical workflows for commercial fleet operations.
+
+## Large-Scale Enterprise Codebase
+
+Developing features within a mature enterprise application requires balancing new feature development with long-term maintainability. A significant part of my work involves understanding existing architecture, improving legacy implementations, and introducing modern Android development practices without disrupting production stability.
+
+## Compliance-Critical Workflows
+
+The Compliance Pod is responsible for delivering features that support regulatory requirements and operational workflows. These features must be reliable, intuitive, and thoroughly tested, as they directly impact driver compliance and daily operations.
+
+## Cross-Functional Product Development
+
+Many initiatives span multiple engineering teams and services. Delivering these features requires close collaboration with Product Managers, Designers, Backend Engineers, QA Engineers, Analytics teams, and other engineering groups to ensure consistent implementation across the platform.
+
+## Technical Solution Design
+
+Before implementation, new initiatives often require Technical Solution Design (TSD) documentation, where engineering approaches, architecture decisions, implementation strategies, technical risks, and dependencies are evaluated to ensure scalable and maintainable solutions.
+
+## Analytics-Driven Product Development
+
+Understanding feature adoption and user behavior is an important aspect of product development. Analytics integration enables teams to evaluate product performance, validate new features, and make informed decisions for future improvements.
+
+## Production Reliability
+
+Supporting an enterprise SaaS platform requires maintaining high application stability through continuous monitoring, debugging, root cause analysis, and proactive improvements to ensure a reliable experience for commercial drivers.
+
+---
+
+# Business Impact
+
+The Motive Driver App plays a critical role in helping transportation companies simplify regulatory compliance, improve driver productivity, and optimize fleet operations through intelligent mobile technology.
+
+My contributions focus on delivering reliable Android solutions that enhance compliance workflows, improve maintainability, and support continuous product innovation. By modernizing legacy components, implementing scalable features, and collaborating across engineering teams, I help ensure the platform continues to evolve while maintaining a high standard of quality and performance.
+
+Beyond feature implementation, my work contributes to engineering efficiency through technical documentation, architecture discussions, code quality improvements, and analytics-driven product development, enabling the team to deliver sustainable long-term value for customers.
+
+---
+
+# Key Achievements
+
+Throughout my work on the Motive Driver App, I have contributed to the development and continuous improvement of a large-scale enterprise Android application used by commercial drivers across North America.
+
+Key achievements include:
+
+- Delivered production-ready Android features supporting compliance and operational workflows.
+- Enhanced existing features to improve usability, scalability, and long-term maintainability.
+- Contributed to the modernization of legacy code by adopting modern Android development practices.
+- Prepared Technical Solution Design (TSD) documentation for new product initiatives.
+- Collaborated across multiple engineering teams to deliver cross-functional features.
+- Participated in architectural discussions and technical planning sessions.
+- Integrated analytics to support feature evaluation and data-driven product decisions.
+- Performed code reviews while promoting engineering best practices and code quality.
+- Investigated production issues, performed root cause analysis, and implemented sustainable solutions.
+- Supported Agile product development through sprint planning, estimation, backlog refinement, and production releases.
+- Contributed to continuous improvements in engineering processes, application performance, and software maintainability.
+- Helped deliver reliable Android experiences within a large-scale enterprise SaaS platform serving commercial fleet operations.
+
+---
+
+# Professional Growth
+
+Working at Motive has significantly strengthened my expertise in enterprise Android development, product engineering, and large-scale software architecture.
+
+The project has expanded my experience in:
+
+- Enterprise Android Development
+- Product Engineering
+- Large-Scale Mobile Applications
+- Modern Android Architecture
+- Technical Solution Design (TSD)
+- Cross-Functional Engineering
+- Legacy Code Modernization
+- Analytics-Driven Product Development
+- Production Support
+- Root Cause Analysis
+- Code Reviews
+- Engineering Documentation
+- Software Architecture
+- Agile Product Development
+- Continuous Delivery
+- Scalable Mobile Systems
+- Building Business-Critical Enterprise Software
+
+# Technologies
+
+The Motive Driver App is developed using a modern Android technology stack that supports scalability, maintainability, and rapid feature delivery across a large enterprise platform. The project follows industry best practices and leverages modern Android frameworks to build reliable, high-performance mobile experiences.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Language** | Kotlin |
+| **UI Development** | Jetpack Compose, Material Design 3 |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Flow, StateFlow |
+| **Dependency Injection** | Dagger Hilt |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Background Processing** | WorkManager |
+| **Analytics & Monitoring** | Firebase Analytics, Firebase Crashlytics, Internal Analytics Platform |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Figma, Postman |
+| **Development Practices** | Code Reviews, Technical Design Documents (TSD), Agile Scrum, CI/CD |
+
+---
+
+# Engineering Practices
+
+Working on Motive has provided extensive experience in developing enterprise-grade Android applications using modern engineering principles and collaborative product development practices.
+
+Engineering practices include:
+
+- Developing scalable Android applications using Kotlin and Jetpack Compose.
+- Applying Clean Architecture and SOLID principles across feature development.
+- Designing modular and reusable components to improve maintainability.
+- Managing reactive UI state using Kotlin Coroutines, Flow, and StateFlow.
+- Preparing Technical Solution Design (TSD) documentation before implementation.
+- Participating in architecture discussions and technical planning sessions.
+- Modernizing legacy modules through incremental refactoring while maintaining production stability.
+- Collaborating with Product Managers, Product Designers, Backend Engineers, QA Engineers, and Analytics teams throughout the feature lifecycle.
+- Integrating analytics to evaluate feature adoption and support data-driven product decisions.
+- Performing code reviews and maintaining engineering quality standards.
+- Investigating production issues through debugging and root cause analysis.
+- Supporting continuous integration, production releases, and post-release monitoring.
+- Contributing to Agile ceremonies including sprint planning, backlog refinement, estimation, retrospectives, and release planning.
+
+---
+
+# Skills Demonstrated
+
+The Motive Driver App showcases experience in developing and maintaining large-scale enterprise Android applications within a fast-paced product engineering environment.
+
+## Technical Skills
+
+- Android SDK
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Kotlin Coroutines
+- Flow
+- StateFlow
+- Dagger Hilt
+- Retrofit
+- OkHttp
+- REST API Integration
+- WorkManager
+- Firebase Analytics
+- Firebase Crashlytics
+- Git
+- GitHub
+- Jira
+- CI/CD
+
+---
+
+## Enterprise Engineering Skills
+
+- Enterprise Android Development
+- Product Engineering
+- Large-Scale Mobile Applications
+- Feature Lifecycle Management
+- Technical Solution Design (TSD)
+- Legacy Code Modernization
+- Cross-Functional Collaboration
+- Engineering Documentation
+- Code Reviews
+- Software Architecture
+- Production Support
+- Root Cause Analysis
+- Performance Optimization
+- Technical Planning
+- Continuous Delivery
+- Agile Software Development
+
+---
+
+## Product & Business Skills
+
+- Fleet Compliance Solutions
+- Driver Workflow Optimization
+- Enterprise SaaS Development
+- Transportation Technology
+- Regulatory Compliance
+- Analytics-Driven Product Development
+- Feature Adoption Analysis
+- Product Quality Improvement
+- Customer-Centric Development
+- Scalable Mobile Solutions
+
+---
+
+# Engineering Highlights
+
+Beyond feature development, I actively contribute to engineering excellence across the Android team by participating in architectural discussions, preparing Technical Solution Design (TSD) documents, reviewing implementation approaches, and collaborating across multiple engineering teams.
+
+My work focuses on building scalable, maintainable, and production-ready solutions while continuously improving code quality, modernizing legacy components, and supporting long-term product evolution.
+
+Working within a large enterprise codebase has strengthened my ability to balance feature delivery with engineering sustainability, ensuring that new capabilities integrate seamlessly into an evolving platform while maintaining reliability for production users.
+
+---
+
+# Screenshots
+
+Due to the proprietary nature of Motive's enterprise platform and company confidentiality policies, application screenshots cannot be publicly shared.
+
+Instead, this project highlights the engineering challenges, architectural decisions, and technical contributions involved in developing and maintaining a large-scale enterprise Android application.
+
+---
+
+# Project Summary
+
+Working at **Motive** represents the most significant milestone in my Android engineering career, providing the opportunity to contribute to one of the industry's leading enterprise fleet management platforms.
+
+As a **Software Engineer Android (L5)** within the **Compliance Pod**, I contribute to designing, developing, and maintaining business-critical Android features that support regulatory compliance, operational efficiency, and driver productivity. My responsibilities extend across the full software development lifecycle, including feature implementation, technical solution design, architecture discussions, analytics integration, production support, legacy code modernization, and continuous product improvement.
+
+Beyond delivering features, I collaborate closely with Product Managers, Designers, Backend Engineers, QA Engineers, Analytics teams, and fellow Android engineers to translate complex business requirements into scalable, maintainable, and high-quality mobile solutions.
+
+This role has significantly strengthened my expertise in enterprise Android architecture, product engineering, technical leadership, cross-functional collaboration, and building software that serves mission-critical business operations at scale. It reflects my evolution from implementing mobile features to contributing strategically to the long-term success and technical direction of a globally recognized enterprise SaaS platform.
+
 
 # [Mindvalley: Self Improvement]([https://play.google.com/store/apps/details?id=com.vowpay.vowpay](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en))
 Mindvalley is a transformational learning app offering self-help courses, meditation programs, and daily motivation sessions for personal growth and wellness. It empowers users to explore themes like spirituality, self-care, confidence building, and mindset development through engaging video content and guided experiences.
