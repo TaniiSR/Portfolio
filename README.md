@@ -178,7 +178,9 @@ Responsibilities have included:
 # Featured Projects
 
 The following projects demonstrate my experience designing, developing, and maintaining Android applications across multiple business domains. Each project highlights the engineering challenges, architectural decisions, technologies used, and my contributions toward delivering production-ready mobile solutions.
-.
+
+---
+
 # 🚛 [Motive Driver App – AI-Powered Fleet Operations & Compliance Platform](https://play.google.com/store/apps/details?id=com.keeptruckin.android&hl=en_GB)
 
 > **Role:** Software Engineer Android (L5)  
@@ -547,6 +549,7 @@ Beyond delivering features, I collaborate closely with Product Managers, Designe
 
 This role has significantly strengthened my expertise in enterprise Android architecture, product engineering, technical leadership, cross-functional collaboration, and building software that serves mission-critical business operations at scale. It reflects my evolution from implementing mobile features to contributing strategically to the long-term success and technical direction of a globally recognized enterprise SaaS platform.
 
+---
 
 # 🚀 [Mindvalley – Personal Growth & Learning Platform](https://play.google.com/store/apps/details?id=com.mindvalley.mva&hl=en)
 
@@ -900,6 +903,7 @@ This project strengthened my expertise in enterprise Android development, Clean 
 
 Mindvalley remains one of the flagship projects in my professional portfolio, demonstrating my experience in building scalable Android applications using modern technologies, collaborating across multidisciplinary teams, and contributing to products that continuously evolve to meet the needs of users around the world.
 
+---
 
 # ♻️ [ScrapBays – Digital Scrap Trading Marketplace](https://play.google.com/store/apps/details?id=com.scrapbays.scrapbaysapp&hl=en_GB)
 
@@ -907,7 +911,6 @@ Mindvalley remains one of the flagship projects in my professional portfolio, de
 > **Industry:** Circular Economy | Recycling | Marketplace | Sustainability  
 > **Platform:** Android
 
----
 
 ## Project Overview
 
@@ -1280,13 +1283,15 @@ Supporting a growing platform with **10K+ users**, ScrapBays strengthened my exp
 
 ScrapBays represents my latest commercial Android project and reflects my continued growth as a software engineer, demonstrating my ability to deliver high-quality, scalable, and business-focused mobile solutions using the latest Android technologies and engineering best practices.
 
+---
+
 # 💳 [VowPay – Digital Payments & Remittance Platform](https://play.google.com/store/apps/details?id=com.vowpay.vowpay)
 
 > **Role:** Senior Android Engineer  
 > **Industry:** FinTech | Digital Payments | Financial Services  
 > **Platform:** Android
 
----
+
 
 ## Project Overview
 
@@ -1631,34 +1636,404 @@ The project strengthened my expertise in enterprise Android development, financi
 
 VowPay represents an important milestone in my professional journey, showcasing my ability to contribute effectively to modern FinTech solutions while delivering high-quality Android applications using industry best practices and scalable software engineering principles.
 
-# [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
-YAP is Fintech application (MVVM-Kotlin): Being built using Kotlin and MVVM, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
+---
 
-### My Role ###
-Senior Android developer. Communicating with client, understanding requirements and sprint planning.
+# 💳 YAP – Multi-Region Digital Banking & Personal Finance Platform
 
-### Technologies ###
-* Kotlin
-* Dagger2
-* Google Maps
-* Glide
-* Junit
-* Push Notifications 
-* Leanplum 
-* Firebase
-* promon sheild 
-* payment gateways
-* ML kit 
-* TDD
-* KYC authentication
-* Modular approach
-* Face id and thumb Sign in enabled
+> **Role:** Senior Android Engineer
+> **Industry:** FinTech | Digital Banking | Personal Finance
+> **Platform:** Android
+> 🌍 **Multi-Region Platform:** Supporting Digital Banking Services across the United Arab Emirates (UAE) & Pakistan
+> [**YAP UAE:**](https://www.yap.com/)
+> [**YAP PAKISTAN:**](https://play.google.com/store/apps/details?id=com.yappakistan.app)
 
+---
+
+## Project Overview
+
+YAP is a modern **multi-region digital banking platform** that delivers secure, intuitive, and customer-centric financial services across multiple markets. The Android application enables users to manage their finances through a seamless mobile experience while supporting region-specific banking products, regulatory requirements, and localized customer journeys.
+
+The platform provides a comprehensive suite of digital banking capabilities, including digital wallet management, virtual and physical debit cards, local and international money transfers, QR payments, bill payments, mobile top-ups, rewards and cashback programs, budgeting tools, spending insights, secure authentication, and customer onboarding.
+
+Designed for scalability and regional expansion, YAP delivers a consistent user experience while supporting country-specific banking regulations, payment integrations, currencies, and financial services across different markets.
+
+---
+
+## Business Context
+
+Digital banking products operating across multiple countries must balance a consistent customer experience with diverse regulatory frameworks, banking partners, payment infrastructures, and localized business requirements.
+
+YAP addresses these challenges by providing a unified digital banking platform capable of supporting multiple regions through configurable business logic, scalable architecture, and reusable mobile components. This enables new market expansion while maintaining security, regulatory compliance, performance, and high engineering quality.
+
+As part of the Android engineering team, I contributed to building secure, scalable, and production-ready mobile solutions that supported regional banking requirements while maintaining a consistent user experience across markets.
+
+---
+
+## My Role
+
+As a **Senior Android Engineer**, I collaborated with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and fellow Android engineers to develop and maintain Android features for a multi-region digital banking platform.
+
+My responsibilities extended beyond feature implementation to include architecture discussions, technical planning, reusable component development, production support, code reviews, and continuous platform improvements. Working within Agile teams, I contributed to delivering secure, scalable, and maintainable financial solutions capable of supporting multiple regional deployments.
+
+---
+
+## Responsibilities
+
+My responsibilities included:
+
+- Developing secure Android features using Kotlin and modern Android development practices.
+- Building scalable banking functionality supporting multiple regional deployments.
+- Developing digital wallet capabilities for everyday financial operations.
+- Implementing virtual and physical debit card management features.
+- Building card activation, freeze/unfreeze, PIN management, and card control functionality.
+- Developing local and international money transfer workflows.
+- Implementing QR payments, bill payments, and mobile top-up functionality.
+- Building transaction history, spending insights, and personal finance features.
+- Developing rewards, cashback, and customer engagement capabilities.
+- Supporting budgeting and financial management tools.
+- Contributing to KYC onboarding and customer identity verification workflows.
+- Implementing biometric authentication and secure authentication mechanisms.
+- Integrating REST APIs with backend financial services.
+- Supporting region-specific business rules and localized banking experiences.
+- Building reusable UI components and shared business logic for multiple markets.
+- Applying Clean Architecture and MVVM principles throughout the application.
+- Participating in architecture discussions, technical planning, and implementation reviews.
+- Conducting code reviews and maintaining Android engineering best practices.
+- Investigating production issues using Firebase Crashlytics.
+- Collaborating with Product Managers, Designers, Backend Engineers, and QA teams throughout the product lifecycle.
+- Supporting Agile software development, sprint planning, estimation, backlog refinement, and production releases.
+
+---
+
+## Key Contributions
+
+During my time on YAP, I contributed to developing and enhancing core banking capabilities that supported secure digital financial services across multiple regions.
+
+Key contributions included:
+
+- Developed production-ready Android features for a multi-region digital banking platform.
+- Built secure digital wallet functionality supporting everyday financial transactions.
+- Developed virtual and physical debit card management features.
+- Implemented card activation, freeze/unfreeze, PIN management, and card control workflows.
+- Built local and international money transfer functionality.
+- Developed QR payments, bill payments, and mobile recharge capabilities.
+- Implemented transaction history, spending insights, and budgeting features.
+- Built rewards and cashback experiences that improved customer engagement.
+- Contributed to KYC onboarding and customer verification workflows.
+- Implemented biometric authentication and secure login mechanisms.
+- Supported regional banking requirements through configurable and reusable application components.
+- Integrated backend financial services using REST APIs.
+- Utilized Kotlin Coroutines and Flow for asynchronous programming and reactive state management.
+- Applied Clean Architecture and MVVM to improve scalability and long-term maintainability.
+- Developed reusable UI components that accelerated feature delivery across multiple markets.
+- Participated in architecture discussions, code reviews, and technical planning.
+- Collaborated closely with cross-functional teams to deliver secure, scalable, and user-focused digital banking experiences across multiple regional deployments.
+
+---
+# Architecture
+
+YAP was built using a modern, scalable Android architecture designed to support a multi-region digital banking platform while maintaining a consistent user experience across different markets. The architecture emphasizes modularity, security, maintainability, and reusability, enabling rapid feature development and efficient adaptation to regional banking requirements.
+
+By adopting Clean Architecture, MVVM, and reactive programming principles, the application separates business logic, presentation, and data layers, allowing engineering teams to develop, test, and evolve features independently while maintaining long-term scalability.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model–View–ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Unidirectional Data Flow
+- Reusable Feature Components
+- Configurable Multi-Region Architecture
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── Jetpack Compose
+├── XML (Legacy & Shared Screens)
+├── ViewModels
+├── UI State Management
+│
+Domain Layer
+│
+├── Business Logic
+├── Use Cases
+├── Regional Business Rules
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Storage
+├── Secure Data Handling
+│
+Core Components
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+├── WorkManager
+├── Firebase
+```
+
+The architecture enabled:
+
+- Scalable feature development across multiple regions.
+- Reusable business logic and UI components.
+- Region-specific feature configuration without duplicating code.
+- Secure handling of financial data.
+- Improved maintainability and testability.
+- Faster onboarding of new banking capabilities.
+- Long-term platform scalability.
+
+---
+
+# Engineering Challenges
+
+Developing a multi-region digital banking application required balancing security, performance, scalability, regulatory requirements, and an excellent customer experience.
+
+## Multi-Region Product Development
+
+Supporting multiple markets meant accommodating regional business rules, banking partners, currencies, payment providers, and localized customer experiences while maintaining a unified Android codebase.
+
+## Secure Financial Workflows
+
+Financial applications require a strong focus on security, reliability, and data integrity. Features involving authentication, money transfers, card management, and customer onboarding were implemented with secure engineering practices while ensuring a seamless user experience.
+
+## Reusable Platform Development
+
+As the platform expanded, reusable UI components and shared business logic became essential for accelerating development and maintaining consistency across regional deployments.
+
+## Product Evolution
+
+Digital banking products evolve rapidly. Continuous feature enhancements, improvements to existing functionality, and close collaboration with Product teams ensured the application remained competitive while maintaining technical quality.
+
+## Performance & Stability
+
+Providing a responsive and reliable banking experience required optimizing application performance, reducing technical debt, monitoring production issues, and continuously improving application stability.
+
+## Cross-Functional Collaboration
+
+Successful delivery depended on collaboration with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and stakeholders to translate complex financial requirements into scalable Android solutions.
+
+---
+
+# Business Impact
+
+YAP delivers a modern digital banking experience by providing customers with secure and convenient access to financial services through a single mobile application.
+
+My contributions focused on building scalable Android features that improved digital banking workflows, enhanced customer engagement, and supported regional platform expansion. By implementing reusable components, modern architecture, and secure integrations, I helped create a maintainable platform capable of supporting multiple markets while delivering a consistent user experience.
+
+The project's architecture and engineering practices enabled faster feature delivery, improved long-term maintainability, and supported the continued growth of YAP's digital banking ecosystem.
+
+---
+
+# Key Achievements
+
+Throughout the project, I contributed to delivering secure, scalable, and production-ready Android solutions for a multi-region digital banking platform.
+
+Key achievements include:
+
+- Developed production-ready Android features using Kotlin and modern Android technologies.
+- Built digital wallet functionality supporting everyday financial operations.
+- Developed virtual and physical debit card management capabilities.
+- Implemented secure card controls, including activation, freeze/unfreeze, and PIN management.
+- Built local and international money transfer workflows.
+- Developed QR payments, bill payments, and mobile top-up functionality.
+- Implemented transaction history, spending insights, budgeting, rewards, and cashback features.
+- Contributed to secure KYC onboarding and customer verification workflows.
+- Implemented biometric authentication and secure login experiences.
+- Supported multi-region deployments through configurable architecture and reusable components.
+- Integrated backend financial services using REST APIs.
+- Applied Clean Architecture, MVVM, and Repository Pattern to improve scalability and maintainability.
+- Utilized Kotlin Coroutines and Flow for efficient asynchronous programming and reactive state management.
+- Developed reusable UI components that accelerated development across multiple regional markets.
+- Participated in architecture discussions, code reviews, and technical planning.
+- Investigated production issues using Firebase Crashlytics and implemented sustainable long-term improvements.
+- Collaborated closely with cross-functional teams to deliver secure, reliable, and user-centric financial solutions.
+
+---
+
+# Professional Growth
+
+Working on YAP significantly strengthened my expertise in enterprise FinTech application development and large-scale digital banking platforms.
+
+The project expanded my experience in:
+
+- Digital Banking Platforms
+- Multi-Region Product Development
+- Enterprise FinTech Solutions
+- Secure Mobile Application Development
+- Clean Architecture
+- MVVM
+- Modular Application Design
+- Kotlin Coroutines & Flow
+- REST API Integration
+- Financial Security Best Practices
+- Reusable Component Development
+- Product Engineering
+- Cross-Functional Collaboration
+- Agile Software Development
+- Production Support
+- Building Scalable Financial Applications
+
+---
+# Technologies
+
+YAP was developed using a modern Android technology stack designed to support a secure, scalable, and high-performance digital banking platform operating across multiple regions. The application leverages industry-standard frameworks, architectural patterns, and engineering practices to deliver reliable financial services while maintaining long-term maintainability and scalability.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Kotlin |
+| **UI Development** | Jetpack Compose, XML, Material Design |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Kotlin Flow, StateFlow |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Dependency Injection** | Dagger Hilt |
+| **Background Processing** | WorkManager |
+| **Security** | Biometric Authentication, Secure Storage, OTP Verification |
+| **Firebase** | Firebase Cloud Messaging (FCM), Firebase Analytics, Firebase Crashlytics |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Postman, Figma |
+| **CI/CD** | Bitrise, GitHub Actions |
+
+---
+
+# Engineering Practices
+
+Working on YAP provided valuable experience in building enterprise-grade FinTech applications while following modern Android engineering principles and secure software development practices.
+
+Engineering practices included:
+
+- Developing secure Android applications using Kotlin and modern Android development practices.
+- Applying Clean Architecture and SOLID principles throughout the application.
+- Building reusable UI components and shared business logic to support multiple regional deployments.
+- Utilizing Kotlin Coroutines and Flow for asynchronous programming and reactive state management.
+- Designing scalable features capable of supporting region-specific banking requirements.
+- Implementing secure authentication and customer verification workflows.
+- Integrating REST APIs with banking and financial services.
+- Conducting code reviews and maintaining Android engineering standards.
+- Participating in architecture discussions, technical planning, and implementation reviews.
+- Monitoring production stability using Firebase Crashlytics and Analytics.
+- Collaborating with Product Managers, UX/UI Designers, Backend Engineers, and QA Engineers.
+- Supporting Agile software development through sprint planning, backlog refinement, estimation, retrospectives, and release planning.
+- Contributing to CI/CD pipelines for reliable production deployments.
+
+---
+
+# Skills Demonstrated
+
+The YAP project demonstrates extensive experience in enterprise FinTech application development, multi-region product engineering, and secure mobile banking solutions.
+
+## Technical Skills
+
+- Android SDK
+- Kotlin
+- Jetpack Compose
+- XML
+- Material Design
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Kotlin Coroutines
+- Kotlin Flow
+- StateFlow
+- Retrofit
+- OkHttp
+- REST API Integration
+- Dagger Hilt
+- WorkManager
+- Firebase Cloud Messaging (FCM)
+- Firebase Analytics
+- Firebase Crashlytics
+- Biometric Authentication
+- OTP Verification
+- Git
+- GitHub
+- Jira
+- CI/CD
+
+---
+
+## FinTech Domain Expertise
+
+- Digital Banking
+- Multi-Region Financial Platforms
+- Digital Wallets
+- Personal Finance
+- Debit Card Management
+- International Money Transfers
+- Local Money Transfers
+- QR Payments
+- Bill Payments
+- Mobile Top-Ups
+- KYC Onboarding
+- Customer Verification
+- Spending Analytics
+- Budgeting Features
+- Rewards & Cashback
+- Secure Authentication
+- Financial Security
+- Regulatory Compliance
+
+---
+
+## Engineering Skills
+
+- Enterprise Android Development
+- FinTech Product Engineering
+- Multi-Region Application Development
+- Secure Mobile Application Development
+- Reusable Component Design
+- API Integration
+- Reactive Programming
+- State Management
+- Production Debugging
+- Root Cause Analysis
+- Performance Optimization
+- Code Reviews
+- Cross-Functional Collaboration
+- Agile Software Development
+- Continuous Delivery
+- Scalable Mobile Architecture
+
+---
+
+# Screenshots
+
+The following screenshots showcase the **YAP Digital Banking** application, highlighting digital wallet management, account overview, card management, money transfers, QR payments, transaction history, budgeting tools, rewards, and other core financial services that deliver a secure and seamless banking experience across multiple regional markets.
 
 <p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+
 </p>
 
+---
+
+# Project Summary
+
+Working on **YAP** provided the opportunity to contribute to a modern, multi-region digital banking platform that delivers secure, scalable, and customer-centric financial services across different markets.
+
+As a **Senior Android Engineer**, I contributed to designing, developing, and maintaining production-ready Android features supporting digital wallets, debit card management, money transfers, QR payments, budgeting, rewards, secure authentication, and customer onboarding. My work also included implementing reusable components, integrating backend financial services, improving application performance, participating in architecture discussions, and maintaining high engineering standards throughout the product lifecycle.
+
+The project strengthened my expertise in enterprise FinTech, secure mobile application development, multi-region product engineering, scalable Android architecture, and cross-functional collaboration. It also enhanced my ability to build reliable, maintainable, and business-focused mobile solutions that support regional expansion while delivering a consistent and secure customer experience.
+
+YAP represents a significant milestone in my Android engineering journey, demonstrating my ability to develop enterprise-grade financial applications that balance security, scalability, performance, and exceptional user experience across multiple markets.
+
+
+---
 
 # [BARQ Stores](https://play.google.com/store/apps/details?id=com.kaakati.barqmerchant)
 Best and secure channel to send your luggage, jewelry and expensive material with ease. Setup luggage pick-location and recipient information and leave the rest to us.
