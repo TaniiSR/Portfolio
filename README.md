@@ -1648,7 +1648,7 @@ VowPay represents an important milestone in my professional journey, showcasing 
 > **Role:** Senior Android Engineer  
 > **Industry:** FinTech | Digital Banking | Personal Finance  
 > **Platform:** Android
-> 🌍 **Multi-Region Platform:** Supporting Digital Banking Services across the [United Arab Emirates (UAE)](https://www.yap.com/) & [Pakistan](https://play.google.com/store/apps/details?id=com.yappakistan.app)
+> 🌍 **Multi-Region Platform:** Supporting Digital Banking Services across the [United Arab Emirates (UAE)]([https://www.yap.com/](https://play.google.com/store/apps/details?id=com.yap.banking) & [Pakistan](https://play.google.com/store/apps/details?id=com.yappakistan.app)
 
 
 ---
