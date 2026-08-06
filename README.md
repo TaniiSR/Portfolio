@@ -1640,12 +1640,11 @@ VowPay represents an important milestone in my professional journey, showcasing 
 
 # 💳 YAP – Multi-Region Digital Banking & Personal Finance Platform
 
-> **Role:** Senior Android Engineer
-> **Industry:** FinTech | Digital Banking | Personal Finance
+> **Role:** Senior Android Engineer  
+> **Industry:** FinTech | Digital Banking | Personal Finance  
 > **Platform:** Android
-> 🌍 **Multi-Region Platform:** Supporting Digital Banking Services across the United Arab Emirates (UAE) & Pakistan
-> [**YAP UAE:**](https://www.yap.com/)
-> [**YAP PAKISTAN:**](https://play.google.com/store/apps/details?id=com.yappakistan.app)
+> 🌍 **Multi-Region Platform:** Supporting Digital Banking Services across the [United Arab Emirates (UAE)](https://www.yap.com/) & [Pakistan](https://play.google.com/store/apps/details?id=com.yappakistan.app)
+
 
 ---
 
@@ -2011,12 +2010,15 @@ The following screenshots showcase the **YAP Digital Banking** application, high
 
 <p align="center">
 
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(5).png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(4).png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(2).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(7).webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(3).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(1).png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Yap/460x0w%20(6).webp" width="150" title="iPad version">
+<img src="Images/Yap/1.png" width="170"/>
+<img src="Images/Yap/2.png" width="170"/>
+<img src="Images/Yap/3.png" width="170"/>
+<img src="Images/Yap/4.png" width="170"/>
+
+<img src="Images/Yap/5.png" width="170"/>
+<img src="Images/Yap/6.webp" width="170"/>
+<img src="Images/Yap/7.webp" width="170"/>
+<img src="Images/Yap/8.png" width="170"/>
 
 </p>
 
