@@ -2037,77 +2037,714 @@ YAP represents a significant milestone in my Android engineering journey, demons
 
 ---
 
-# [BARQ Stores](https://play.google.com/store/apps/details?id=com.kaakati.barqmerchant)
-Best and secure channel to send your luggage, jewelry and expensive material with ease. Setup luggage pick-location and recipient information and leave the rest to us.
+# 🚚 [BARQ – Logistics & Last-Mile Delivery Platform](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
 
-### My Role ###
- Android developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows, Impletent the User requirements. 
+> **Role:** Android Engineer  
+> **Industry:** Logistics | Last-Mile Delivery | Supply Chain  
+> **Platform:** Android
 
-### Technologies ###
-* Java
-* Kotlin
-* Room Db
-* Lottie animations
-* Glide
-* Google maps
-* Push Notifications
-* Okhttp3
-* Google Location services
-* Firebase
-* Payment gateways
+---
+
+## Project Overview
+
+BARQ is a modern logistics and last-mile delivery platform that streamlines the transportation of goods by connecting customers, drivers, and logistics operations through a reliable Android application. The platform enables users to create delivery requests, track shipments in real time, optimize delivery routes, and monitor order progress from pickup to final delivery.
+
+Designed for speed, reliability, and operational efficiency, BARQ supports real-time communication between mobile clients and backend services while providing drivers with accurate navigation, optimized routes, and live delivery updates. The Android application focuses on delivering a seamless experience across customer and driver workflows while maintaining scalability and high performance.
+
+---
+
+## Business Context
+
+Efficient logistics operations rely heavily on real-time visibility, accurate location tracking, and optimized delivery execution. BARQ addresses these challenges by providing an intelligent delivery platform that improves operational efficiency, enhances customer satisfaction, and enables drivers to manage deliveries effectively.
+
+As part of the Android engineering team, I contributed to building reliable mobile solutions that supported both customer and driver experiences. My work focused on developing scalable Android features, integrating location-based services, and ensuring reliable communication with backend systems while supporting continuous product evolution.
+
+---
+
+## My Role
+
+As a **Senior Android Engineer**, I collaborated with Product Managers, UX/UI Designers, Backend Engineers, QA Engineers, and fellow Android developers throughout the complete software development lifecycle.
+
+My responsibilities included designing, developing, reviewing, testing, and maintaining Android features for both customer and driver applications. I actively participated in architecture discussions, API integration, production support, technical planning, and code reviews while ensuring high standards of software quality and maintainability.
+
+---
+
+## Responsibilities
+
+My responsibilities included:
+
+- Developing Android features for both customer and driver applications.
+- Implementing order creation and order management workflows.
+- Building real-time delivery tracking functionality.
+- Integrating Google Maps SDK for navigation and location-based services.
+- Implementing live location tracking for delivery operations.
+- Developing route optimization workflows to improve delivery efficiency.
+- Integrating REST APIs for order management and logistics services.
+- Implementing background location updates using WorkManager.
+- Supporting push notifications for delivery updates and order status changes.
+- Implementing OTP verification for secure delivery confirmation and user authentication.
+- Developing Cash on Delivery (COD) workflows.
+- Implementing deep links to improve navigation across the application.
+- Applying Clean Architecture and MVVM principles throughout the application.
+- Building reusable and maintainable Android components.
+- Collaborating with backend engineers to ensure reliable API integration and data synchronization.
+- Conducting code reviews and promoting Android engineering best practices.
+- Investigating production issues using Firebase Crashlytics.
+- Participating in Agile ceremonies including sprint planning, backlog refinement, estimation, retrospectives, and release planning.
+- Supporting CI/CD pipelines and production releases.
+
+---
+
+## Key Contributions
+
+During my time on BARQ, I contributed to the development of several core logistics features that improved delivery operations, location tracking, and the overall mobile experience for both customers and drivers.
+
+Key contributions included:
+
+- Developed production-ready Android features using Kotlin and modern Android development practices.
+- Built customer and driver application functionality supporting end-to-end delivery operations.
+- Implemented order management workflows for creating, updating, and tracking deliveries.
+- Developed real-time delivery tracking using Google Maps SDK and live location updates.
+- Implemented route optimization features to improve delivery efficiency.
+- Built background location services using WorkManager to support continuous delivery tracking.
+- Integrated push notifications to provide real-time delivery status updates.
+- Developed OTP verification workflows for secure delivery confirmation.
+- Implemented Cash on Delivery (COD) functionality to support flexible payment methods.
+- Integrated REST APIs to synchronize delivery data and order information with backend services.
+- Applied Clean Architecture and MVVM principles to improve maintainability and scalability.
+- Utilized Kotlin Coroutines and Flow to efficiently manage asynchronous operations.
+- Built reusable Android components that improved consistency across the application.
+- Participated in architecture discussions supporting long-term platform scalability.
+- Conducted code reviews and collaborated closely with cross-functional teams to deliver reliable logistics solutions.
+
+---
+## Architecture
+
+The BARQ Android application was designed using modern Android architecture principles to support real-time logistics operations, scalable feature development, and long-term maintainability. Given the complexity of managing customer requests, driver workflows, live location updates, and delivery tracking, the architecture focused on modularity, clean separation of concerns, and responsive state management.
+
+The application was built to ensure reliable communication between mobile clients and backend logistics services while maintaining high performance across different Android devices and network conditions.
+
+### Architectural Principles
+
+- Clean Architecture
+- MVVM (Model-View-ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Modular Architecture
+- Dependency Injection
+- Reactive Programming
+- Single Source of Truth
+- Unidirectional Data Flow (where applicable)
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── XML UI
+├── ViewModels
+├── UI State Management
+│
+Domain Layer
+│
+├── Use Cases
+├── Business Logic
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Storage
+├── Google Maps SDK
+├── Firebase Services
+│
+Core Libraries
+│
+├── Dagger Hilt
+├── Kotlin Coroutines
+├── Kotlin Flow
+├── WorkManager
+```
+
+The architecture enabled:
+
+- Scalable customer and driver application development.
+- Reliable real-time location updates.
+- Improved maintainability and modularity.
+- Better separation between business logic and UI.
+- Efficient background processing.
+- Simplified testing and debugging.
+- Long-term scalability for future logistics services.
+
+---
+
+## Engineering Challenges
+
+Developing a logistics platform introduced several engineering challenges that required balancing performance, accuracy, battery efficiency, and user experience.
+
+### Real-Time Location Tracking
+
+Maintaining accurate live location updates while minimizing battery consumption required efficient use of Android location services, background processing, and optimized update strategies.
+
+### Delivery Tracking
+
+Providing customers with reliable delivery progress and real-time driver visibility required continuous synchronization between the mobile application and backend logistics services.
+
+### Route Optimization
+
+Supporting optimized delivery routes required seamless integration with mapping services and accurate handling of location updates to improve delivery efficiency.
+
+### Background Processing
+
+Managing location updates while the application was running in the background required careful implementation using WorkManager and Android background execution guidelines.
+
+### Order Lifecycle Management
+
+Supporting order creation, assignment, pickup, in-transit updates, and successful delivery required robust state management and reliable backend synchronization.
+
+### Production Stability
+
+The application needed to perform reliably across a wide range of Android devices, varying network conditions, and continuous delivery operations while maintaining a smooth user experience.
+
+### Cross-functional Collaboration
+
+Successful delivery of logistics features required close collaboration with Product Managers, Designers, Backend Engineers, QA Engineers, and operations teams to ensure business requirements were accurately translated into production-ready mobile solutions.
+
+---
+
+## Business Impact
+
+BARQ plays a critical role in enabling efficient last-mile delivery operations by providing customers and drivers with a reliable mobile platform for managing deliveries from pickup to completion.
+
+My contributions focused on improving operational efficiency through real-time delivery tracking, route optimization, order management, live location updates, and seamless integration with backend logistics services.
+
+By implementing scalable Android features and maintaining a clean architecture, I helped support continuous product evolution while improving application reliability, maintainability, and the overall delivery experience for both customers and drivers.
+
+The project reinforced the importance of building responsive, scalable, and location-aware mobile applications capable of supporting high-volume logistics operations.
+
+---
+
+## Key Achievements
+
+Throughout the project, I contributed to the successful delivery of production-ready Android features supporting both customer and driver experiences.
+
+Key achievements include:
+
+- Delivered production-ready Android features for customer and driver applications.
+- Implemented complete order management workflows from order creation to delivery completion.
+- Developed real-time delivery tracking using Google Maps SDK and live location updates.
+- Built route optimization features supporting efficient delivery operations.
+- Implemented background location tracking using WorkManager while following Android best practices.
+- Developed OTP verification workflows supporting secure delivery confirmation.
+- Implemented Cash on Delivery (COD) functionality.
+- Integrated REST APIs supporting logistics operations and order synchronization.
+- Utilized Kotlin Coroutines and Flow for asynchronous programming and efficient state management.
+- Applied Clean Architecture and MVVM principles to improve scalability and maintainability.
+- Built reusable Android components supporting future feature development.
+- Conducted code reviews and promoted Android engineering best practices.
+- Investigated production issues using Firebase Crashlytics and implemented sustainable solutions.
+- Collaborated with Product Managers, Designers, Backend Engineers, and QA Engineers throughout the software development lifecycle.
+- Supported Agile software delivery through sprint planning, estimation, backlog refinement, retrospectives, and release planning.
+- Contributed to reliable CI/CD pipelines supporting continuous application releases.
+
+---
+
+## Professional Growth
+
+Working on BARQ significantly strengthened my expertise in developing enterprise-scale logistics applications and real-time location-based mobile solutions.
+
+The project expanded my experience in:
+
+- Logistics and last-mile delivery platforms.
+- Customer and driver application development.
+- Real-time location tracking.
+- Google Maps SDK integration.
+- Route optimization.
+- Background processing using WorkManager.
+- Order management systems.
+- REST API integration.
+- Kotlin and modern Android development.
+- Kotlin Coroutines and Flow.
+- Clean Architecture and MVVM.
+- Production debugging and monitoring.
+- Agile software development.
+- Cross-functional collaboration.
+- Continuous Integration and Continuous Delivery (CI/CD).
+- Building scalable, reliable, and high-performance Android applications.
+
+---
+## Technologies
+
+BARQ was developed using modern Android technologies, scalable architectural patterns, and location-based services to deliver a reliable and high-performance logistics platform capable of supporting real-time delivery operations.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Kotlin, Java |
+| **UI Development** | XML, Material Design |
+| **Architecture** | Clean Architecture, MVVM, Repository Pattern, SOLID Principles, Modular Architecture |
+| **Asynchronous Programming** | Kotlin Coroutines, Kotlin Flow, StateFlow |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Location Services** | Google Maps SDK, Fused Location Provider |
+| **Background Processing** | WorkManager |
+| **Local Storage** | Room, DataStore, SharedPreferences |
+| **Dependency Injection** | Dagger Hilt |
+| **Firebase** | Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Analytics, Firebase Crashlytics |
+| **Testing** | JUnit, MockK, Unit Testing |
+| **CI/CD** | GitHub Actions, Bitrise |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Figma |
+
+---
+
+## Engineering Practices
+
+Throughout the BARQ project, I followed modern Android engineering principles to ensure application reliability, scalability, maintainability, and efficient collaboration across development teams.
+
+Engineering practices included:
+
+- Writing clean, maintainable, and production-ready Kotlin code.
+- Applying Clean Architecture and SOLID principles throughout the application.
+- Implementing MVVM architecture to maintain clear separation of concerns.
+- Building reusable Android components for improved consistency and maintainability.
+- Designing modular features that supported continuous product evolution.
+- Developing efficient background processing using WorkManager.
+- Optimizing location updates to balance accuracy, responsiveness, and battery consumption.
+- Participating in architecture discussions and technical planning.
+- Conducting code reviews to maintain Android engineering standards.
+- Investigating production issues using Firebase Crashlytics.
+- Collaborating closely with Product Managers, Designers, Backend Engineers, and QA Engineers.
+- Supporting Agile software development through sprint planning, backlog refinement, retrospectives, estimation, and release planning.
+- Contributing to CI/CD pipelines to support reliable production deployments.
+
+---
+
+## Skills Demonstrated
+
+The BARQ project demonstrates experience in developing enterprise-grade logistics applications with a strong focus on location-based services, delivery operations, and real-time communication.
+
+### Technical Skills
+
+- Android SDK
+- Kotlin
+- Java
+- XML
+- Clean Architecture
+- MVVM
+- Repository Pattern
+- SOLID Principles
+- Google Maps SDK
+- Fused Location Provider
+- REST API Integration
+- Retrofit
+- OkHttp
+- Kotlin Coroutines
+- Kotlin Flow
+- StateFlow
+- WorkManager
+- Dagger Hilt
+- Room
+- DataStore
+- Firebase Authentication
+- Firebase Cloud Messaging (FCM)
+- Firebase Analytics
+- Firebase Crashlytics
+- GitHub Actions
+- Bitrise
+
+### Logistics Domain Expertise
+
+- Customer Application Development
+- Driver Application Development
+- Order Management
+- Real-Time Delivery Tracking
+- Live Location Tracking
+- Route Optimization
+- Google Maps Integration
+- Background Location Services
+- OTP Verification
+- Cash on Delivery (COD)
+- Push Notifications
+- Deep Linking
+- Delivery Workflow Management
+- Last-Mile Logistics
+
+### Engineering Skills
+
+- Mobile Software Architecture
+- Enterprise Android Development
+- Real-Time Systems
+- Location-Based Services
+- API Integration
+- Background Processing
+- Performance Optimization
+- Production Support
+- Debugging & Root Cause Analysis
+- Code Reviews
+- Agile Software Development
+- Cross-functional Collaboration
+- Technical Planning
+- Software Quality Assurance
+- Continuous Improvement
+
+---
+
+## Screenshots
+
+The following screenshots showcase the BARQ Android application, highlighting customer and driver workflows, order management, live delivery tracking, and logistics operations.
+
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/7.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/8.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/9.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/10.jpg" width="230" title="Spirituality">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/11.jpg" width="230" title="Spirituality">
+
+<!-- Replace with your actual screenshots -->
+
+<img src="Images/Barq/7.jpg" width="170"/>
+<img src="Images/Barq/8.jpg" width="170"/>
+<img src="Images/Barq/9.jpg" width="170"/>
+<img src="Images/Barq/10.jpg" width="170"/>
+<img src="Images/Barq/11.jpg" width="170"/>
+
+
+<img src="Images/Barq/1.jpg" width="170"/>
+<img src="Images/Barq/2.jpg" width="170"/>
+<img src="Images/Barq/3.jpg" width="170"/>
+<img src="Images/Barq/4.jpg" width="170"/>
+<img src="Images/Barq/5.jpg" width="170"/>
+<img src="Images/Barq/6.jpg" width="170"/>
+
 </p>
 
- # [BARQ Fleet](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
-Truly innovative idea to make money by carrying parcels with your luggage. Pick the parcel from your nearest locations, deliver at your destination to make money.
+---
 
-### My Role ###
-As Android Developer gathhered the user requirements and implement into the cutting edge features.
+## Project Summary
 
-### Technologies ###
-* Java
-* Kotlin
-* Room Db
-* Lottie animations
-* Glide
-* Google maps
-* Push Notifications
-* Okhttp3
-* Google Location services
-* Firebase
-* Map clustering
-* Payment gateways
+Working on **BARQ** provided valuable experience in building enterprise-scale logistics and last-mile delivery solutions where real-time communication, accurate location tracking, and operational efficiency are essential to the success of the platform.
+
+Throughout the project, I contributed to the development of both customer and driver applications by implementing delivery workflows, order management, live location tracking, Google Maps integration, route optimization, OTP verification, background processing, and reliable communication with backend logistics services.
+
+By applying Clean Architecture, MVVM, Kotlin Coroutines, WorkManager, and modern Android engineering practices, I helped build scalable and maintainable mobile applications capable of supporting complex logistics operations and continuous product evolution.
+
+The project strengthened my expertise in location-aware mobile applications, background processing, real-time tracking, enterprise Android development, API integration, production support, and collaborative software engineering.
+
+BARQ represents an important milestone in my Android engineering career, demonstrating my ability to deliver reliable, scalable, and high-performance mobile solutions for logistics and supply chain operations while maintaining a strong focus on software quality, maintainability, and user experience.
+
+---
+
+# 🛒 [MGASHA – B2C E-Commerce Marketplace](https://play.google.com/store/apps/details?id=com.mgasha)
+
+> **Role:** Android Developer  
+> **Industry:** E-Commerce | Retail | Online Marketplace  
+> **Platform:** Android
+
+---
+
+## Project Overview
+
+MGASHA is a B2C e-commerce platform designed to provide customers with a seamless online shopping experience through an intuitive Android application. The platform enables users to browse products, explore categories, search for items, manage shopping carts, complete purchases, and track orders from placement to delivery.
+
+The application focuses on delivering a responsive, user-friendly shopping experience while ensuring reliable communication with backend services and maintaining high standards of application performance and usability.
+
+---
+
+## Business Context
+
+As online shopping continues to grow, customers expect fast, reliable, and convenient mobile experiences. MGASHA was developed to simplify product discovery and purchasing while providing users with a complete shopping journey through a modern Android application.
+
+The platform supports product browsing, secure user authentication, personalized shopping experiences, order management, and real-time order tracking, helping customers shop efficiently from their mobile devices.
+
+---
+
+## My Role
+
+As an **Android Developer**, I collaborated with Product Managers, UI/UX Designers, Backend Engineers, and QA Engineers to develop and maintain Android features that enhanced the overall shopping experience.
+
+I participated throughout the software development lifecycle, contributing to feature development, API integration, debugging, testing, production support, and continuous application improvements.
+
+---
+
+## Responsibilities
+
+My responsibilities included:
+
+- Developing Android features using Java and XML.
+- Implementing secure user authentication and OTP verification.
+- Building product catalog and category browsing experiences.
+- Developing product search functionality.
+- Implementing wishlist management.
+- Building shopping cart functionality.
+- Developing checkout workflows.
+- Implementing order management and order tracking features.
+- Integrating REST APIs with backend services.
+- Supporting push notifications for order updates.
+- Implementing deep links for improved application navigation.
+- Developing background tasks using WorkManager.
+- Collaborating with backend engineers to ensure reliable API integration.
+- Investigating production issues using Firebase Crashlytics.
+- Participating in Agile ceremonies and supporting production releases.
+
+---
+
+## Key Contributions
+
+Key contributions included:
+
+- Developed production-ready Android features supporting the complete shopping experience.
+- Built user authentication and OTP verification workflows.
+- Implemented product catalog, categories, and product search.
+- Developed wishlist and shopping cart functionality.
+- Built checkout workflows supporting order placement.
+- Implemented order management and order tracking features.
+- Integrated REST APIs for product and order synchronization.
+- Implemented push notifications to improve customer engagement.
+- Added deep linking to enhance user navigation.
+- Utilized WorkManager for reliable background processing.
+- Collaborated closely with cross-functional teams to deliver high-quality Android features.
+
+---
+## Architecture
+
+The MGASHA Android application was designed using modern Android architecture principles to support a scalable, maintainable, and responsive e-commerce platform. The application followed a layered architecture that separated presentation, business logic, and data management, making it easier to extend features and maintain the codebase.
+
+### Architectural Principles
+
+- MVVM (Model–View–ViewModel)
+- Repository Pattern
+- SOLID Principles
+- Dependency Injection
+- Modular Feature Organization
+- Reactive Programming
+
+### Architecture Overview
+
+```text
+Presentation Layer
+│
+├── XML UI
+├── ViewModels
+│
+Domain Layer
+│
+├── Business Logic
+├── Use Cases
+│
+Data Layer
+│
+├── Repository
+├── REST APIs
+├── Local Storage
+│
+Core Libraries
+│
+├── WorkManager
+├── Firebase
+```
+
+This architecture provided:
+
+- Clear separation of concerns.
+- Better maintainability.
+- Scalable feature development.
+- Improved code reusability.
+- Simplified debugging and testing.
+
+---
+
+## Engineering Challenges
+
+Developing an e-commerce application required delivering a smooth shopping experience while ensuring reliable communication with backend services and maintaining application performance.
+
+Key challenges included:
+
+### Product Discovery
+
+Implementing efficient product browsing, category navigation, and search functionality while providing fast and responsive user interactions.
+
+### Shopping Experience
+
+Developing seamless wishlist, shopping cart, checkout, and order management workflows that simplified the customer purchasing journey.
+
+### Order Tracking
+
+Providing users with accurate order status updates and reliable synchronization between the Android application and backend services.
+
+### Background Processing
+
+Managing background tasks and application updates using WorkManager while ensuring a responsive user experience.
+
+### Cross-functional Collaboration
+
+Working closely with Product Managers, Designers, Backend Engineers, and QA Engineers to translate business requirements into production-ready Android features.
+
+---
+
+## Business Impact
+
+MGASHA provides customers with a convenient mobile shopping experience by simplifying product discovery, purchasing, and order tracking.
+
+My contributions focused on improving the customer journey through intuitive shopping workflows, reliable backend integration, and responsive Android features. By implementing scalable architecture and reusable components, I contributed to a maintainable application capable of supporting continuous feature enhancements and future business growth.
+
+---
+
+## Key Achievements
+
+Throughout the project, I contributed to delivering production-ready Android features that enhanced the overall shopping experience.
+
+Key achievements include:
+
+- Developed secure user authentication and OTP verification workflows.
+- Built product catalog, category browsing, and search functionality.
+- Implemented wishlist and shopping cart features.
+- Developed checkout workflows supporting complete purchase journeys.
+- Built order management and order tracking functionality.
+- Integrated REST APIs for product and order synchronization.
+- Implemented push notifications for order updates and customer engagement.
+- Added deep linking to improve application navigation.
+- Utilized WorkManager for reliable background processing.
+- Applied MVVM and Repository Pattern to improve maintainability.
+- Collaborated with cross-functional teams to deliver high-quality Android features.
+- Investigated production issues using Firebase Crashlytics and supported application stability.
+
+---
+
+## Professional Growth
+
+Working on MGASHA strengthened my expertise in Android application development within the e-commerce domain.
+
+The project enhanced my experience in:
+
+- E-commerce application development.
+- Product catalog management.
+- Shopping cart and checkout workflows.
+- Order management and tracking.
+- REST API integration.
+- MVVM architecture.
+- Repository Pattern.
+- Background processing with WorkManager.
+- Firebase services.
+- Agile software development.
+- Cross-functional collaboration.
+- Building scalable and maintainable Android applications.
+
+---
+## Technologies
+
+MGASHA was developed using modern Android development tools and proven architectural patterns to deliver a reliable, maintainable, and user-friendly e-commerce application.
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Languages** | Java |
+| **UI Development** | XML, Material Design |
+| **Architecture** | MVVM, Repository Pattern, SOLID Principles |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Background Processing** | WorkManager |
+| **Local Storage** | SharedPreferences |
+| **Firebase** | Firebase Authentication, Firebase Cloud Messaging (FCM), Firebase Analytics, Firebase Crashlytics |
+| **Development Tools** | Android Studio, Git, GitHub, Jira, Postman |
+
+---
+
+## Engineering Practices
+
+Throughout the development of MGASHA, I followed Android engineering best practices to ensure application stability, maintainability, and an excellent shopping experience.
+
+Engineering practices included:
+
+- Writing clean, maintainable Java code.
+- Following MVVM architecture and Repository Pattern.
+- Building reusable UI components for consistency.
+- Integrating REST APIs with proper error handling.
+- Managing background tasks using WorkManager.
+- Supporting deep linking for improved user navigation.
+- Conducting code reviews and following coding standards.
+- Investigating production issues using Firebase Crashlytics.
+- Collaborating closely with Product Managers, Designers, Backend Engineers, and QA Engineers.
+- Participating in Agile software development, sprint planning, backlog refinement, and release cycles.
+
+---
+
+## Skills Demonstrated
+
+The MGASHA project strengthened my expertise in Android development within the e-commerce domain while reinforcing best practices for scalable mobile applications.
+
+### Technical Skills
+
+- Android SDK
+- Java
+- XML
+- MVVM
+- Repository Pattern
+- REST API Integration
+- Retrofit
+- OkHttp
+- WorkManager
+- Firebase Authentication
+- Firebase Cloud Messaging (FCM)
+- Firebase Analytics
+- Firebase Crashlytics
+- Git
+- GitHub
+
+### E-Commerce Domain Expertise
+
+- User Authentication
+- OTP Verification
+- Product Catalog
+- Product Categories
+- Product Search
+- Wishlist
+- Shopping Cart
+- Checkout
+- Order Management
+- Order Tracking
+- Push Notifications
+- Deep Linking
+
+### Engineering Skills
+
+- Android Application Development
+- Mobile UI Development
+- API Integration
+- Background Processing
+- Debugging & Root Cause Analysis
+- Production Support
+- Code Reviews
+- Agile Software Development
+- Cross-functional Collaboration
+- Software Quality Assurance
+- Continuous Improvement
+
+---
+
+## Screenshots
+
+The following screenshots showcase the MGASHA Android application, highlighting product discovery, shopping workflows, user authentication, and order management.
 
 <p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/3.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/4.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/5.jpg" width="230" title="Spirituality">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/Barq/11.jpg" width="230" title="Spirituality">
+
+<!-- Replace these with your actual screenshots -->
+
+<img src="Images/chbib/01.webp" width="170"/>
+<img src="Images/chbib/02.webp" width="170"/>
+<img src="Images/chbib/03.webp" width="170"/>
+<img src="Images/chbib/04.webp" width="170"/>
+
+<img src="Images/chbib/05.webp" width="170"/>
+<img src="Images/chbib/06.webp" width="170"/>
+<img src="Images/chbib/07.webp" width="170"/>
+<img src="Images/chbib/08.webp" width="170"/>
+
 </p>
 
-# [Maggsha](https://www.ilsainteractive.com/chbib/)
-Maggasha is aware of its responsibility toward customers and the environment and committed as a trendsetter and market leader striving to match our customer demands across industry segments. We are dedicated to offering the best environment friendly and genuine products backed by a professional network for after-sales support, through its network of branches and subsidiaries across the Kingdom.
+---
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). Maggasha is built with Android Studio and written entirely in Java/Kotlin.
+## Project Summary
 
-### My Role ###
-Senior Android developer Communicating with client, understanding requirements and sprint planning.
+Working on **MGASHA** provided valuable experience in developing a production-ready B2C e-commerce application focused on delivering a smooth and reliable mobile shopping experience.
 
-### Technologies ###
-* Kotlin/Java
-* Dagger2
-* Junit
-* RxJava
-* MVVM
-* Glide
-* Push Notifications
-* Firebase
-* GoogleMaps
-* Payment gateways
-* Lottie-Animations
-<p align="center">
-<img src="https://github.com/TaniiSR/Portfolio/blob/main/Images/chbib/maggsha-image.png" width="700"  title="Feeds Screen">
-</p>
+Throughout the project, I contributed to implementing core shopping features including user authentication, product discovery, category browsing, product search, wishlist management, shopping cart, checkout, order management, and order tracking. I also integrated backend services through REST APIs, implemented push notifications, deep linking, and background processing using WorkManager to improve the overall user experience.
+
+The project strengthened my expertise in Android application development, MVVM architecture, API integration, Firebase services, and Agile software development while reinforcing the importance of building maintainable, scalable, and user-focused mobile applications.
+
+MGASHA represents an important step in my professional journey, demonstrating my ability to build feature-rich Android applications within the e-commerce domain while collaborating effectively with cross-functional teams and delivering high-quality production software.
+
+---
  
  
  # [Literacy Assessment Drive (LAD)](https://play.google.com/store/apps/details?id=qodit.com.lad)
@@ -2139,6 +2776,5 @@ As Android Developer gathhered the user requirements and implement into the cutt
 
 
 
-### Stack over flow Contributions ###
-I am an active contributor on stackoverflow  : 
-https://stackoverflow.com/story/taniisr
+# Stack over flow Contributions 
+I am an active contributor on [Stackoverflow](https://stackoverflow.com/users/10862130/tanveer-munir)
