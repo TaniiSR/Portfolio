@@ -2720,15 +2720,14 @@ The following screenshots showcase the MGASHA Android application, highlighting 
 
 <!-- Replace these with your actual screenshots -->
 
-<img src="Images/chbib/01.webp" width="170"/>
-<img src="Images/chbib/02.webp" width="170"/>
-<img src="Images/chbib/03.webp" width="170"/>
-<img src="Images/chbib/04.webp" width="170"/>
+<img src="Images/chbib/1.webp" width="170"/>
+<img src="Images/chbib/2.webp" width="170"/>
+<img src="Images/chbib/3.webp" width="170"/>
+<img src="Images/chbib/4.webp" width="170"/>
 
-<img src="Images/chbib/05.webp" width="170"/>
-<img src="Images/chbib/06.webp" width="170"/>
-<img src="Images/chbib/07.webp" width="170"/>
-<img src="Images/chbib/08.webp" width="170"/>
+<img src="Images/chbib/5.webp" width="170"/>
+<img src="Images/chbib/6.webp" width="170"/>
+<img src="Images/chbib/7.webp" width="170"/>
 
 </p>
 
