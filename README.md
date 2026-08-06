@@ -39,7 +39,7 @@ I have extensive experience working with modern Android technologies, architectu
 - **10+ years** of professional Android development experience
 - Built and maintained production Android applications across multiple industries
 - Expertise in Kotlin-first Android development
-- Strong background in Clean Architecture and MVVM
+- Strong background in Clean Architecture, MVVM, MVI, MVC and MVP
 - Extensive experience with Jetpack Compose and modern Android development
 - Developed secure financial applications involving authentication, payments, and user verification
 - Experience integrating REST APIs and GraphQL services
