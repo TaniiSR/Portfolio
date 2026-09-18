@@ -20,6 +20,16 @@
 ## Stack over flow Contributions 
 I am an active contributor on [Stackoverflow](https://stackoverflow.com/users/10862130/tanveer-munir)
 
+7+ years as a Stack Overflow contributor: 1,968 reputation, answers reaching 113,000+ developers, 2 gold / 15 silver / 28 bronze badges across Android, Java and Android Studio topics.
+
+---
+
+## Awards & External Contribution
+
+Exceptional Contribution Award (Employee of the Month shield), Digitify Ltd: recognised for outstanding technical contribution.
+
+External Technical Contributor, University of Sargodha, Department of Computer Science (2023): contributed to the research study "Structured Knowledge Creation for Urdu Language: A DBpedia Approach", covering Wikipedia crawling, Urdu-English mapping, DBpedia/ontology structures, and data cleaning and testing. Formally acknowledged by the lead co-author of the research team.
+
 ---
 
 # About Me
@@ -201,6 +211,8 @@ The **Motive Driver App** is a core component of Motive's AI-powered Integrated 
 
 Serving commercial fleets across North America, the platform helps transportation companies improve driver safety, simplify compliance, increase operational efficiency, and gain real-time visibility into fleet operations. As part of Motive's broader ecosystem, the Driver App integrates with intelligent fleet management solutions that leverage AI, telematics, and operational insights to streamline business-critical workflows.
 
+The Driver App's user base has grown to **1M+ users** across North America.
+
 As a **Software Engineer Android (L5)**, I contribute to the continuous evolution of one of Motive's flagship mobile products by developing scalable Android solutions, enhancing existing capabilities, modernizing legacy components, and maintaining a high-quality production codebase. My work spans the complete software development lifecycle, from technical design and implementation to testing, release, monitoring, and long-term maintenance.
 
 ---
@@ -237,6 +249,8 @@ My key responsibilities include:
 - Investigating production issues, identifying root causes, and implementing sustainable long-term fixes.
 - Supporting Agile software development through sprint planning, backlog refinement, estimation, and production releases.
 - Continuously improving application performance, maintainability, and overall engineering quality.
+- Integrating Bluetooth Low Energy (BLE) connectivity between driver-facing devices and ELD hardware, handling device pairing, reliable data sync and real-world connectivity issues in the field.
+- Also contributing Swift/iOS implementations for the same driver-facing workflows, keeping behaviour and user experience consistent across both platforms.
 
 ---
 
@@ -256,6 +270,8 @@ Key contributions include:
 - Performed code reviews and contributed to maintaining high engineering standards.
 - Investigated and resolved production issues through effective debugging and root cause analysis.
 - Contributed to continuous product evolution by delivering reliable, scalable, and user-focused Android solutions within an enterprise SaaS environment.
+- Investigated production issues reported by drivers, resolving around 90% of reported issues.
+- Raised unit test coverage on compliance features from ~5% to 75%, and added end-to-end/UI testing.
 
 ---
 # Architecture
@@ -379,6 +395,9 @@ Key achievements include:
 - Supported Agile product development through sprint planning, estimation, backlog refinement, and production releases.
 - Contributed to continuous improvements in engineering processes, application performance, and software maintainability.
 - Helped deliver reliable Android experiences within a large-scale enterprise SaaS platform serving commercial fleet operations.
+- Contributed to a driver-facing user base that has grown to **1M+ users** across North America.
+- Resolved around **90%** of reported production issues raised by drivers.
+- Raised unit test coverage on compliance features from **~5% to 75%**, adding end-to-end/UI testing.
 
 ---
 
@@ -420,6 +439,7 @@ The Motive Driver App is developed using a modern Android technology stack that 
 | **Networking** | Retrofit, OkHttp, REST APIs |
 | **Background Processing** | WorkManager |
 | **Analytics & Monitoring** | Firebase Analytics, Firebase Crashlytics, Internal Analytics Platform |
+| **Hardware Connectivity** | Bluetooth Low Energy (BLE) integration with ELD hardware |
 | **Development Tools** | Android Studio, Git, GitHub, Jira, Figma, Postman |
 | **Development Practices** | Code Reviews, Technical Design Documents (TSD), Agile Scrum, CI/CD |
 
@@ -570,6 +590,8 @@ Mindvalley is one of the world's leading personal growth and digital learning pl
 
 The platform continuously evolves by introducing new learning experiences, improving user engagement, and expanding its educational ecosystem. Building and maintaining such a large-scale Android application required a strong focus on software architecture, scalability, performance, maintainability, and user experience.
 
+Mindvalley's flagship app has grown to a **1M+ user base**, with my work centered on the community, chat and social features.
+
 As part of the Android engineering team, I contributed to developing high-quality mobile solutions that aligned with both engineering best practices and business objectives while supporting continuous product growth.
 
 ---
@@ -615,6 +637,8 @@ My responsibilities throughout the project included:
 - Performing code reviews and promoting Android development best practices.
 - Participating in Agile ceremonies including sprint planning, estimation, backlog refinement, retrospectives, and release planning.
 - Supporting CI/CD pipelines to ensure reliable application delivery.
+- Leading the Android-side integration of the Stream Chat SDK, from technical evaluation through to production rollout.
+- Also contributing Swift/iOS implementations for the same community and chat features, keeping the experience consistent across Android and iOS for the same multi-million-user base.
 
 ---
 
@@ -629,6 +653,7 @@ Major contributions included:
 - Applied Clean Architecture and MVVM principles to improve scalability and long-term maintainability.
 - Contributed to modular application development by keeping features loosely coupled and easy to extend.
 - Integrated GraphQL APIs using Apollo while maintaining clean abstraction between presentation and data layers.
+- Designed and led a revamp of the community Connect experience (posts, reactions, comments and connections) using Apollo GraphQL, Clean Architecture, MVVM, Coroutines and Flow; the feature's user base grew by around **40%** following the revamp.
 - Utilized Kotlin Coroutines and Flow to simplify asynchronous operations and improve application responsiveness.
 - Collaborated closely with backend teams to ensure seamless API integration and reliable data synchronization.
 - Improved engineering quality through code reviews, knowledge sharing, and adherence to coding standards.
@@ -762,6 +787,9 @@ Some of my key achievements include:
 - Supported Agile development through sprint planning, backlog refinement, technical estimation, and iterative delivery.
 - Contributed to reliable software delivery through established CI/CD pipelines and engineering best practices.
 - Continuously focused on writing clean, maintainable, and testable code that supports future scalability.
+- Contributed to growing the app's user base to **1M+ users**, owning the community, chat and social features.
+- Led the Connect feature revamp, growing that feature's user base by around **40%**.
+- Raised unit test coverage from roughly **5% to 40%**, added end-to-end testing, and introduced Appium UI testing across Android and iOS for about half the features.
 
 ---
 
@@ -1290,6 +1318,7 @@ Key achievements include:
 - Collaborated closely with Product Managers, Designers, Backend Engineers, and QA Engineers throughout the software development lifecycle.
 - Supported CI/CD pipelines and contributed to reliable production releases.
 - Helped deliver a modern Android application serving a growing marketplace with **10K+ users**.
+- Added end-to-end testing to raise reliability, resolving around **90%** of reported bugs and fixing broken edge cases.
 
 ---
 
@@ -1534,6 +1563,7 @@ During my time on VowPay, I contributed to multiple core financial features that
 
 Key contributions included:
 
+- Led a revamp of VowPay's core transfer and wallet flows that grew and retained the app's user base.
 - Developed secure international money transfer functionality.
 - Built beneficiary management features allowing users to manage transfer recipients efficiently.
 - Implemented digital wallet features supporting everyday financial operations.
@@ -1890,6 +1920,7 @@ During my time on YAP, I contributed to developing and enhancing core banking ca
 
 Key contributions included:
 
+- Led the Android build of YAP Pakistan end-to-end, from architecture through to the app's first MVP release.
 - Developed production-ready Android features for a multi-region digital banking platform.
 - Built secure digital wallet functionality supporting everyday financial transactions.
 - Developed virtual and physical debit card management features.
@@ -2409,6 +2440,7 @@ The following screenshots showcase the **EDB 360** application, highlighting per
 # 🚚 [BARQ – Logistics & Last-Mile Delivery Platform](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
 
 > **Role:** Android Engineer  
+> **Company:** Ilsa Interactive  
 > **Industry:** Logistics | Last-Mile Delivery | Supply Chain  
 > **Platform:** Android
 
@@ -2615,6 +2647,8 @@ Key achievements include:
 - Collaborated with Product Managers, Designers, Backend Engineers, and QA Engineers throughout the software development lifecycle.
 - Supported Agile software delivery through sprint planning, estimation, backlog refinement, retrospectives, and release planning.
 - Contributed to reliable CI/CD pipelines supporting continuous application releases.
+- Helped grow the Barq Fleet driver app's user base to **10K+ users** through live tracking and route optimization.
+- The codebase was rated **75% maintainable and testable** in an external audit.
 
 ---
 
@@ -2798,6 +2832,7 @@ BARQ represents an important milestone in my Android engineering career, demonst
 # 🛒 [MGASHA – B2C E-Commerce Marketplace](https://play.google.com/store/apps/details?id=com.mgasha)
 
 > **Role:** Android Developer  
+> **Company:** Ilsa Interactive  
 > **Industry:** E-Commerce | Retail | Online Marketplace  
 > **Platform:** Android
 
@@ -2968,6 +3003,7 @@ Key achievements include:
 - Applied MVVM and Repository Pattern to improve maintainability.
 - Collaborated with cross-functional teams to deliver high-quality Android features.
 - Investigated production issues using Firebase Crashlytics and supported application stability.
+- Optimised app performance across Android screen densities and device tiers; the codebase was subsequently rated **75% maintainable and testable** in an external audit.
 
 ---
 
@@ -3115,6 +3151,7 @@ MGASHA represents an important step in my professional journey, demonstrating my
  # 📚 [Literacy Assessment Drive (LAD) – Education Assessment Platform](https://play.google.com/store/apps/details?id=qodit.com.lad)
 
 > **Role:** Android Developer  
+> **Company:** QodIT  
 > **Industry:** Education Technology (EdTech) | Government | Field Assessment  
 > **Platform:** Android
 
@@ -3122,7 +3159,9 @@ MGASHA represents an important step in my professional journey, demonstrating my
 
 ## Project Overview
 
-Literacy Assessment Drive (LAD) is an Android application developed for the **Non-Formal Education Assessment & Examination Cell (NFE A&E Cell)** to digitize the student assessment process for non-formal educational institutions. The application enables field assessors to conduct formative assessments, capture assessment data, upload supporting evidence, and synchronize results with a centralized reporting system, reducing paperwork and improving assessment efficiency. :contentReference[oaicite:1]{index=1}
+Literacy Assessment Drive (LAD) is an Android application developed for the **Non-Formal Education Assessment & Examination Cell (NFE A&E Cell)** to digitize the student assessment process for non-formal educational institutions. The application enables field assessors to conduct formative assessments, capture assessment data, upload supporting evidence, and synchronize results with a centralized reporting system, reducing paperwork and improving assessment efficiency.
+
+Built for the Government of Punjab, the application is used by assessors across public schools province-wide to digitise student literacy assessments.
 
 The mobile application was designed to support field operations where assessors frequently work in environments with limited connectivity. To address these challenges, the application provides offline capabilities, background synchronization, location services, and extensive camera integration for capturing assessment evidence.
 
@@ -3132,7 +3171,7 @@ The mobile application was designed to support field operations where assessors 
 
 Traditional assessment processes relied heavily on manual documentation, making data collection slow, error-prone, and difficult to monitor centrally. LAD modernized this workflow by enabling assessors to perform evaluations digitally, capture supporting images directly from the field, and synchronize assessment records with backend systems.
 
-The platform improves the efficiency of educational assessment programs by enabling faster data collection, more accurate reporting, and improved visibility into assessment progress through centralized dashboards. :contentReference[oaicite:2]{index=2}
+The platform improves the efficiency of educational assessment programs by enabling faster data collection, more accurate reporting, and improved visibility into assessment progress through centralized dashboards.
 
 ---
 
