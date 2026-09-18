@@ -910,6 +910,181 @@ Mindvalley remains one of the flagship projects in my professional portfolio, de
 
 ---
 
+# 🧠 [Mindvalley States – Personalized Emotional State & Meditation Platform](https://play.google.com/store/apps/details?id=com.mindvalley.mvstates&hl=en)
+
+> **Role:** Senior Mobile Developer  
+> **Company:** Mindvalley  
+> **Industry:** Wellness Technology | Digital Learning  
+> **Platform:** Android / Flutter
+
+## Project Overview
+
+Mindvalley States is a wellness and personal-development application designed to help users intentionally access different emotional states through guided experiences, meditation, hypnosis, soundscapes, and state-focused content.
+
+The application allows users to select a desired emotional state and explore personalized experiences built around that state.
+
+## My Role
+
+As a Senior Mobile Developer at Mindvalley, I contributed to the development of the Mindvalley States application, working on mobile features, user experiences, application state management, and backend-driven content.
+
+## Responsibilities
+
+* Developed and maintained mobile application features using **Flutter and Dart**.
+* Built reusable UI components and responsive mobile experiences.
+* Implemented application state management using **BLoC / Cubit**.
+* Integrated backend APIs and dynamic content into the application.
+* Worked with asynchronous operations and API responses.
+* Applied clean and maintainable architectural patterns.
+* Collaborated with product, design, backend, and engineering teams.
+* Debugged and optimized application features for production use.
+
+## Key Contributions
+
+### Flutter Application Development
+
+Developed mobile experiences using **Flutter**, creating reusable widgets and maintainable application components.
+
+### BLoC State Management
+
+Used **BLoC / Cubit** to manage application state and separate presentation logic from UI components.
+
+This helped keep feature implementations structured and maintainable while handling loading, success, error, and content states.
+
+### Personalized Experiences
+
+Contributed to user flows where users could select an emotional state and access corresponding meditation, audio, and personal-development experiences.
+
+### Backend Integration
+
+Integrated backend-driven content and APIs to dynamically retrieve and display relevant experiences within the application.
+
+### Reusable Components
+
+Built reusable Flutter widgets and feature components to maintain consistency across the application and reduce duplication.
+
+## Product Experience
+
+The application provides a state-oriented experience where users can explore different emotional states and access associated content.
+
+The core experience can be represented as:
+
+**Choose → Activate → Supplement → Enhance**
+
+Users can select a desired state and access supporting experiences such as meditation, hypnosis, binaural soundscapes, and other state-focused content.
+
+## Architecture
+
+The application used a feature-oriented architecture with separation between presentation, business logic, and data responsibilities.
+
+```text
+Flutter UI
+   ↓
+Widgets / Screens
+   ↓
+BLoC / Cubit
+   ↓
+Business Logic
+   ↓
+Repository
+   ↓
+API / Data Sources
+```
+
+## Engineering Challenges
+
+### State Management
+
+Managing multiple UI states and asynchronous operations required clear separation between presentation and business logic. BLoC/Cubit helped structure these state transitions.
+
+### Dynamic Content
+
+The application relied on content-driven experiences that needed to be retrieved and presented dynamically based on the selected user state.
+
+### Audio & Meditation Experiences
+
+The product included meditation, hypnosis, and soundscape experiences, requiring smooth user interactions and reliable content presentation.
+
+### Maintainability
+
+The application required reusable components and clear separation of responsibilities to support ongoing feature development.
+
+## Business Impact
+
+My contribution supported the development and delivery of user-facing experiences within Mindvalley's wellness product ecosystem.
+
+The application provides Android users with state-focused wellness experiences combining meditation, audio, hypnosis, and personal-development content.
+
+## Key Achievements
+
+* Contributed to a production mobile application within the Mindvalley product ecosystem.
+* Developed mobile features using **Flutter and Dart**.
+* Implemented application state management using **BLoC / Cubit**.
+* Built reusable and maintainable Flutter components.
+* Integrated backend-driven content and APIs.
+* Applied structured architectural and state-management practices.
+* Collaborated with cross-functional product and engineering teams.
+* Contributed to meditation, audio, and personalized wellness experiences.
+
+## Technologies
+
+| Category         | Technologies                                    |
+| ---------------- | ----------------------------------------------- |
+| Framework        | Flutter                                         |
+| Language         | Dart                                            |
+| State Management | BLoC / Cubit                                    |
+| Architecture     | Clean Architecture / Feature-based Architecture |
+| Networking       | REST APIs / GraphQL                             |
+| UI               | Flutter Widgets                                 |
+| Async            | Futures / Streams                               |
+| Platform         | Android / Mobile                                |
+| Engineering      | SOLID, Repository Pattern, Reusable Components  |
+
+## Engineering Practices
+
+* Feature-based architecture
+* BLoC / Cubit state management
+* Separation of concerns
+* Repository Pattern
+* SOLID principles
+* Reusable Flutter widgets
+* Asynchronous programming
+* API integration
+* Error and loading-state handling
+* Code review
+* Production debugging and maintenance
+
+## Skills Demonstrated
+
+* Flutter Development
+* Dart
+* BLoC / Cubit
+* Mobile Application Architecture
+* State Management
+* API Integration
+* UI Development
+* Feature Development
+* Reusable Component Design
+* Production Application Development
+* Cross-functional Collaboration
+
+## Project Summary
+
+**Mindvalley States** demonstrates my experience developing production mobile applications using **Flutter and BLoC**, with a focus on personalized user experiences, dynamic content, structured state management, reusable components, and maintainable application architecture.
+
+## Screenshots
+
+<p align="center">
+
+<img src="Images/MindvalleyStates/1.webp" width="170"/>
+<img src="Images/MindvalleyStates/2.webp" width="170"/>
+<img src="Images/MindvalleyStates/3.webp" width="170"/>
+<img src="Images/MindvalleyStates/4.webp" width="170"/>
+<img src="Images/MindvalleyStates/5.webp" width="170"/>
+
+</p>
+
+---
+
 # ♻️ [ScrapBays – Digital Scrap Trading Marketplace](https://play.google.com/store/apps/details?id=com.scrapbays.scrapbaysapp&hl=en_GB)
 
 > **Role:** Senior Android Developer  
