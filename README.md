@@ -2217,6 +2217,195 @@ YAP represents a significant milestone in my Android engineering journey, demons
 
 ---
 
+# 🏦 [EDB 360 – Business Banking Application](https://play.google.com/store/apps/details?id=com.edb360.app&hl=en_US)
+
+> **Role:** Senior Android Developer / Mobile Engineer  
+> **Company:** Digitify  
+> **Client:** Emirates Development Bank (EDB)  
+> **Industry:** Fintech | Business Banking | Digital Finance  
+> **Platform:** Android
+
+## Project Overview
+
+EDB 360 is a digital business-banking application developed for **Emirates Development Bank (EDB)** to provide UAE-based SMEs with convenient access to essential banking services through a mobile application.
+
+The application enables businesses to manage banking activities digitally, including account-related services, payments, and other business-banking operations.
+
+The application is publicly available on Google Play and currently has **50K+ downloads**.
+
+## My Role
+
+As a **Senior Android Developer at Digitify**, I contributed to the development of the EDB 360 mobile banking application, working on Android features, banking workflows, API integrations, and user-facing experiences.
+
+The project involved working in a regulated fintech environment where reliability, security, maintainability, and accurate handling of financial workflows were important considerations.
+
+## Responsibilities
+
+* Developed and maintained Android features using **Kotlin and Java**.
+* Implemented business-banking user experiences and application workflows.
+* Integrated backend APIs and handled asynchronous data operations.
+* Worked with authentication and secure user flows.
+* Implemented reusable Android UI components.
+* Applied **MVVM, Clean Architecture, and SOLID principles**.
+* Worked with local data and application state management.
+* Debugged production issues and improved application reliability.
+* Collaborated with backend, QA, product, and design teams.
+* Participated in code reviews and technical discussions.
+
+## Key Contributions
+
+### Business Banking Features
+
+Contributed to mobile banking experiences designed for SME customers, supporting digital access to business banking services.
+
+The publicly available product description identifies EDB 360 as an all-in-one SME banking application for managing accounts, payments, and other banking services.
+
+### Android Development
+
+Implemented and maintained Android functionality using modern Android development practices, focusing on reusable components, maintainable code, and reliable application behaviour.
+
+### API Integration
+
+Integrated backend services required by banking workflows and handled API responses, loading states, error scenarios, and data transformation within the Android application.
+
+### Secure Banking Workflows
+
+Worked on application flows where user authentication, financial information, and sensitive business data required careful handling.
+
+### Production Application
+
+Contributed to a production fintech application used by business customers, with the application publicly distributed through Google Play.
+
+## Architecture
+
+The application followed a structured Android architecture with separation between presentation, business logic, and data responsibilities.
+
+```text
+UI Layer
+   ↓
+ViewModel
+   ↓
+Use Cases / Business Logic
+   ↓
+Repository
+   ↓
+Remote / Local Data Sources
+   ↓
+Banking APIs
+```
+
+This approach helped keep business logic separated from UI components and supported maintainability as the application evolved.
+
+## Engineering Challenges
+
+### Financial Workflows
+
+Banking workflows require accurate handling of user actions, transaction states, API responses, and error scenarios.
+
+### Secure Data Handling
+
+The application handled sensitive financial and personal information, requiring careful implementation of authentication and data-handling flows.
+
+### API Reliability
+
+Mobile banking features depend heavily on backend services. The Android implementation needed to handle loading, success, failure, and unexpected API responses gracefully.
+
+### Production Stability
+
+As a customer-facing banking application, reliability and predictable behaviour were important across different Android devices and network conditions.
+
+### Maintainable Architecture
+
+The application required a scalable structure that allowed multiple engineers to work on different banking features without creating unnecessary coupling between components.
+
+## Business Impact
+
+My contribution supported the development and delivery of a production mobile banking platform for **Emirates Development Bank**, enabling SME customers to access banking services digitally.
+
+The application has achieved **50K+ Google Play downloads**, providing external evidence of its public distribution and adoption.
+
+## Key Achievements
+
+* Contributed to a production **SME digital banking application**.
+* Developed Android functionality using **Kotlin and Java**.
+* Worked on financial and business-banking workflows.
+* Integrated backend APIs and handled asynchronous operations.
+* Applied **MVVM, Clean Architecture, and SOLID** principles.
+* Worked on authentication and secure application flows.
+* Collaborated with cross-functional engineering and product teams.
+* Contributed to an application publicly distributed through Google Play with **50K+ downloads**.
+
+## Technologies
+
+| Category             | Technologies                          |
+| --------------------- | -------------------------------------- |
+| Languages            | Kotlin, Java                          |
+| Platform             | Android                               |
+| UI                   | XML / Android Views                   |
+| Architecture         | MVVM, Clean Architecture              |
+| Async                | Kotlin Coroutines / RxJava            |
+| Networking           | REST APIs, Retrofit / OkHttp          |
+| Local Storage        | Room / DataStore                      |
+| Dependency Injection | Hilt / Dagger                         |
+| Testing              | JUnit, Mockito / MockK                |
+| Security             | Authentication & secure data handling |
+| Banking              | SME / Digital Banking                 |
+| Development          | Git, Code Review, CI/CD               |
+
+## Engineering Practices
+
+* Clean Architecture
+* MVVM
+* SOLID principles
+* Repository Pattern
+* Dependency Injection
+* Reactive/asynchronous programming
+* API integration
+* Error-state handling
+* Unit testing
+* Code review
+* Production debugging
+* Performance and reliability improvements
+
+## Skills Demonstrated
+
+* Senior Android Development
+* Kotlin / Java
+* Fintech & Digital Banking
+* SME Banking Applications
+* Financial Workflow Development
+* API Integration
+* Android Architecture
+* Clean Architecture
+* MVVM
+* Secure Application Development
+* Production Application Development
+* Cross-functional Collaboration
+
+## Project Summary
+
+**EDB 360** demonstrates my experience working on a production-grade fintech application for a UAE government-owned development bank, contributing to Android development, digital banking workflows, API integration, application architecture, and secure financial experiences.
+
+The application's public Google Play presence and **50K+ downloads** provide independently verifiable evidence that the product was deployed to real users.
+
+## Screenshots
+
+The following screenshots showcase the **EDB 360** application, highlighting personal and business account onboarding, account overview, payments, fund transfers, savings and fixed deposits, and business financing options.
+
+<p align="center">
+
+<img src="Images/EDB360/1.png" width="170"/>
+<img src="Images/EDB360/2.png" width="170"/>
+<img src="Images/EDB360/3.png" width="170"/>
+<img src="Images/EDB360/4.png" width="170"/>
+
+<img src="Images/EDB360/5.png" width="170"/>
+<img src="Images/EDB360/6.png" width="170"/>
+
+</p>
+
+---
+
 # 🚚 [BARQ – Logistics & Last-Mile Delivery Platform](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
 
 > **Role:** Android Engineer  
