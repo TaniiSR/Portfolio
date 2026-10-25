@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Senior Android Engineer | Kotlin | Jetpack Compose | Clean Architecture
+# Senior Mobile Engineer | Kotlin | iOS |SwiftUI | Flutter | React Native | Cross Platform | Jetpack Compose | Clean Architecture
 
 **Building scalable Android applications for FinTech, EdTech, HealthTech, Logistics, and Enterprise products.**
 
